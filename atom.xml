@@ -4,7 +4,7 @@
   <title><![CDATA[theCookInMe]]></title>
   <link href="http://blog.andreabravo.me//github/atom.xml" rel="self"/>
   <link href="http://blog.andreabravo.me//github/"/>
-  <updated>2014-07-26T00:20:06+02:00</updated>
+  <updated>2014-07-26T00:21:21+02:00</updated>
   <id>http://blog.andreabravo.me//github/</id>
   <author>
     <name><![CDATA[Andrea Bravo Balado]]></name>
@@ -26,9 +26,7 @@
 
 <p>We have taken a two-stage approach: first, an heuristic-based method for <strong>record linkage</strong> and then <strong>machine-learning algorithms</strong> for article classification to be used for filtering in combination with domain features. Evaluation of the linking method has shown that certain domain features were indicative of mentions of ships in newspapers. Moreover, the classifier methods scored near perfect precision in predicting ship related articles.</p>
 
-<p><strong>Enriching historical ship records with links to newspaper archives</strong> is significant for the digital history community since it connects two datasets that would have otherwise required extensive annotating work and man hours to align. Our work is part of the</p>
-
-<p><a href="http://dutchshipsandsailors.nl/">Dutch Ships and Sailors Linked Data Cloud</a> project.</p>
+<p><strong>Enriching historical ship records with links to newspaper archives</strong> is significant for the digital history community since it connects two datasets that would have otherwise required extensive annotating work and man hours to align. Our work is part of the <a href="http://dutchshipsandsailors.nl/">Dutch Ships and Sailors Linked Data Cloud</a> project.</p>
 
 <iframe src="https://docs.google.com/presentation/d/1HSzQIWc5SX4AGjOsOlja6gF-n44OwGJRxixklUSQ6Gs/embed?start=false&loop=false&delayms=30000" frameborder="0" width="680" height="411" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
