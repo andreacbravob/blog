@@ -4,7 +4,7 @@
   <title><![CDATA[Category: theGeekInMe | theCookInMe]]></title>
   <link href="http://blog.andreabravo.me//github/category/thegeekinme/atom.xml" rel="self"/>
   <link href="http://blog.andreabravo.me//github/"/>
-  <updated>2014-07-26T00:01:23+02:00</updated>
+  <updated>2014-07-26T00:04:44+02:00</updated>
   <id>http://blog.andreabravo.me//github/</id>
   <author>
     <name><![CDATA[Andrea Bravo Balado]]></name>
@@ -18,9 +18,7 @@
     <link href="http://blog.andreabravo.me//github/2014/07/linking-historical-ship-records-to-newspaper-archives/"/>
     <updated>2014-07-25T00:00:00+02:00</updated>
     <id>http://blog.andreabravo.me//github/2014/07/linking-historical-ship-records-to-newspaper-archives</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/8725928@N02/4473090245"><img src="http://blog.andreabravo.me/wp-content/uploads/2014/07/CC_janwillemsen.jpg"/></a></p>
-
-<p>(Sí, sí, ya sé que el blog es un poco más de cocina y que es en español pero hago una excepción para presentar mi proyecto de maestría :D)</p>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/8725928@N02/4473090245"><img src="http://blog.andreabravo.me/wp-content/uploads/2014/07/CC_janwillemsen.jpg" class="aligncenter size-full wp-image-1438"/></a></p>
 
 <p><strong>Linking historical datasets</strong> and making them available for the Web has increasingly become a subject of research in the field of <strong>digital humanities</strong>. In the Netherlands, history is intimately related to the <strong>maritime activity</strong> because it has been essential in the development of economic, social and cultural aspects of Dutch society. As such an important sector, it has been well documented by shipping companies, governments, newspapers and other institutions.</p>
 
