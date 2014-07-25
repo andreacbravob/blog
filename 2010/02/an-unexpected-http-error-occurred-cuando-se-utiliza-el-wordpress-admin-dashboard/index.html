@@ -1,0 +1,265 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>&#8220;An Unexpected HTTP Error Occurred&#8221; Cuando Se Utiliza El WordPress Admin Dashboard - theCookInMe</title>
+  <meta name="author" content="Andrea Bravo Balado">
+
+  
+  <meta name="description" content="Algunas veces aparece An Unexpected HTTP Error occurred during the API request al intentar buscar plug-ins o temas en el Wordpress dashboard. Esto se &hellip;">
+  <meta name="keywords" content="Unexpected HTTP Error occurred, wordpress">
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://blog.andreabravo.me/2010/02/an-unexpected-http-error-occurred-cuando-se-utiliza-el-wordpress-admin-dashboard">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href='http://fonts.googleapis.com/css?family=Amaranth' rel='stylesheet' type='text/css'>
+  <link href="/github/atom.xml" rel="alternate" title="theCookInMe" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-22145502-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">theCookInMe</a></h1>
+  
+    <h2>recetas e historias</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/github/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:blog.andreabravo.me" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/archives">Archivo</a></li>
+  <li><a href="/hola-soy-andrea">Sobre mí</a></li>
+  <li><a href="/category/recetas/">Recetas</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">&#8220;An Unexpected HTTP Error Occurred&#8221; Cuando Se Utiliza El WordPress Admin Dashboard</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-02-16T00:00:00+01:00" pubdate data-updated="true"></time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Como ya deben saber, soy nueva en WordPress y en los blogs en general. A pesar de que leo muchísimos blogs, nunca había escrito uno seriamente.</p>
+
+<p>Durante toda la configuración de mi blog, me he encontrado con varios contratiempos. Algunos todavía los estoy investigando pero este me llamó la atención y encontré la solución en este <a href="http://www.clickonf5.org/wordpress/solved-an-unexpected-http-error-wordpress/5802" target="_blank">sitio</a>. [link en inglés]</p>
+
+<p>Algunas veces aparece el error ‘<em>An Unexpected HTTP Error occurred during the API request’</em> al intentar buscar plug-ins o temas en el WordPress dashboard.</p>
+
+<p>Esto se puede solucionar modificando el valor en segundos del límite time-out que tiene WordPress para hacer la petición (function <strong>request</strong>) en el archivo <strong>http.php </strong>ubicado en la carpeta<strong> wp-includes </strong>de nuestro directorio de WordPress en el servidor (el mío se llama <strong>blog</strong>).</p>
+
+<div style="width: 510px" class="wp-caption aligncenter">
+  <a href="http://www.clickonf5.org/wordpress/solved-an-unexpected-http-error-wordpress/5802"><img title="Timeout" src="http://img.clickonf5.org/it/SOLVEDAnUnexpectedHTTPErroroccurreddurin_5E50/http_request_timeout.gif" alt="http.php" width="500" height="176" /></a><p class="wp-caption-text">
+    Se modifica el valor de request timeout de 5 a 30
+  </p>
+</div>
+
+
+<p>Luego es cuestión de refrescar la página y listo.</p>
+
+<p>Si les parece útil este post, no duden en dejar un mensaje aquí :D</p>
+
+<p>Edición 13/12/2014: este blog ya no está en Wordpress.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">andreacbravob</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-02-16T00:00:00+01:00" pubdate data-updated="true"></time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/category/thegeekinme/'>theGeekInMe</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2010/02/hello-world/" title="Previous Post: Hello World!">&laquo; Hello World!</a>
+      
+      
+        <a class="basic-alignment right" href="/2010/03/coldplay-parque-simon-bolivar-bogota-colombia-04-de-marzo-de-2010/" title="Next Post: Coldplay @ Parque Simón Bolívar. Bogotá, Colombia. 04 de marzo de 2010">Coldplay @ Parque Simón Bolívar. Bogotá, Colombia. 04 de marzo de 2010 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2014/07/linking-historical-ship-records-to-newspaper-archives/">Linking Historical Ship Records to Newspaper Archives</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2014/02/de-vuelta/">¡De Vuelta!</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/11/ponquecitos-de-zanahoria-sin-azucar-y-sin-harina/">Ponquecitos De Zanahoria Sin Azúcar Y Sin Harina</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/11/tartaletas-primalveganas-de-banana-y-frutos-secos/">Tartaletas Primal/veganas De Banana Y Frutos Secos</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/10/galletas-de-3-ingredientes/">Galletas De 3 Ingredientes</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  <!--Copyright &copy; 2014 - Andrea Bravo Balado - -->
+  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.es"><img alt="Licencia Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">theCookInMe</span> por <a xmlns:cc="http://creativecommons.org/ns#" href="http://blog.andreabravo.me" property="cc:attributionName" rel="cc:attributionURL">Andrea Bravo Balado</a> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.es">Licencia Creative Commons Atribución 4.0 Internacional</a>.  
+  <span class="credit">Con tecnología <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'andreacbravob-blog';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://blog.andreabravo.me/2010/02/an-unexpected-http-error-occurred-cuando-se-utiliza-el-wordpress-admin-dashboard/';
+        var disqus_url = 'http://blog.andreabravo.me/2010/02/an-unexpected-http-error-occurred-cuando-se-utiliza-el-wordpress-admin-dashboard/';
+        var disqus_script = 'embed.js';
+      
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

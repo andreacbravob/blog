@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: theGeekInMe | theCookInMe]]></title>
+  <link href="http://blog.andreabravo.me/category/thegeekinme/atom.xml" rel="self"/>
+  <link href="http://blog.andreabravo.me/"/>
+  <updated>2014-07-25T23:02:00+02:00</updated>
+  <id>http://blog.andreabravo.me/</id>
+  <author>
+    <name><![CDATA[Andrea Bravo Balado]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Linking Historical Ship Records to Newspaper Archives]]></title>
+    <link href="http://blog.andreabravo.me/2014/07/linking-historical-ship-records-to-newspaper-archives/"/>
+    <updated>2014-07-25T00:00:00+02:00</updated>
+    <id>http://blog.andreabravo.me/2014/07/linking-historical-ship-records-to-newspaper-archives</id>
+    <content type="html"><![CDATA[<p><strong>Linking historical datasets</strong> and making them available for the Web has increasingly become a subject of research in the field of <strong>digital humanities</strong>. In the Netherlands, history is intimately related to the <strong>maritime activity</strong> because it has been essential in the development of economic, social and cultural aspects of Dutch society. As such an important sector, it has been well documented by shipping companies, governments, newspapers and other institutions.
+In this master project we assume that, given the importance of maritime activity in every day life in the XIX and XX centuries, announcements on the departures and arrivals of ships or mentions of accidents or other events, can be found in newspapers.
+We have taken a two-stage approach: first, an heuristic-based method for <strong>record linkage</strong> and then <strong>machine-learning algorithms</strong> for article classification to be used for filtering in combination with domain features. Evaluation of the linking method has shown that certain domain features were indicative of mentions of ships in newspapers. Moreover, the classifier methods scored near perfect precision in predicting ship related articles.
+Enriching historical ship records with links to newspaper archives is significant for the digital history community since it connects two datasets that would have otherwise required extensive annotating work and man hours to align. Our work is part of the <a href=“http://dutchshipsandsailors.nl/”>Dutch Ships and Sailors Linked Data Cloud></a> project.</p>
+
+<iframe src="https://docs.google.com/presentation/d/1HSzQIWc5SX4AGjOsOlja6gF-n44OwGJRxixklUSQ6Gs/embed?start=false&loop=false&delayms=30000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[¡De Vuelta!]]></title>
+    <link href="http://blog.andreabravo.me/2014/02/de-vuelta/"/>
+    <updated>2014-02-15T00:00:00+01:00</updated>
+    <id>http://blog.andreabravo.me/2014/02/de-vuelta</id>
+    <content type="html"><![CDATA[<p>Una vez más he mudado mi blog. Esta vez, he decidido alojar mi sitio en Github Pages y utilizo Octopress como framework para el blog.
+Fueron muchas las búsquedas de instrucciones, resolución de errores y ensayo y error pero al fin lo logré :)
+Fui un poco desordenada y no documenté lo que iba haciendo, así que para explicarlo mejor necesitaré otro post y así tal vez le ahorre un montón de tiempo a alguien más.
+Además del cambio de tecnología, decidí cambiarle el nombre al blog. Si bien me gusta escribir sobre lo que me gusta y lo que hago, lo que más me gusta es escribir recetas, así que lo lógico es dedicar el blog a eso :) después de todo, los posts de recetas son más frecuentes que los demás.</p>
+
+<p>Bienvenido el 2014 (un poco tarde, ¿eh?)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[7 Ideas Para Aprovechar Mejor El Espacio]]></title>
+    <link href="http://blog.andreabravo.me/2013/09/7-ideas-para-aprovechar-mejor-el-espacio/"/>
+    <updated>2013-09-13T00:00:00+02:00</updated>
+    <id>http://blog.andreabravo.me/2013/09/7-ideas-para-aprovechar-mejor-el-espacio</id>
+    <content type="html"><![CDATA[<p>Hace poco más de un mes me mudé a (otra) habitación de estudiantes. Ahora tengo muchas más cosas que cuando me mudé inicialmente a Holanda. Es natural: donde vivía estaba amoblado y ahora tengo mis propias cosas. En los días que pasé intentando buscarle un lugar a cada cosa (soy maniática con esto), se me ocurrieron varios <strong>trucos</strong>, algunos que había visto en Internet y otros que simplemente aparecieron como el bombillito sobre la cabeza. Tal vez haya mejores formas de hacerlo pero, entre otras cosas, aquí no puedo hacer modificaciones mayores. Además, invertí muy poco dinero en esto : )</p>
+
+<p>Sin más, aquí están las <strong>7 ideas para aprovechar mejor el espacio</strong>:</p>
+
+<h3>1. Cuelga cestas en barras de cortinas</h3>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-11-14.02.431.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-11-14.02.431.jpg" alt="Cestas colgadas en barra" width="500" height="256" class="aligncenter size-full wp-image-1503" /></a></p>
+
+<p>En este caso, la barra ya estaba instalada (pero existen algunas que se sostienen sólo con tensión y no hace falta hacer modificaciones mayores) y necesitaba <strong>aprovechar el espacio sobre la nevera</strong> así que se me ocurrió colgar unas cestas que ya tenía. Al principio lo había hecho con tirro (soy la chica tirro, todo lo quiero resolver con eso jaja) pero había comenzado a ceder así que compré un juego de aros para cortina de baño. Claro que para esto necesitas unas cestas que tengan huecos o asas para poder colgarlas.<br/>
+<strong>Las cestas me costaron 0.99 euros c/u y los aros 2.50 euros por 12.</strong> Nada mal, ¿no?</p>
+
+<h3>2. Aprovecha el espacio vertical para secar la ropa</h3>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-11-14.05.511.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-11-14.05.511.jpg" alt="Tendedero" width="500" height="434" class="aligncenter size-full wp-image-1505" /></a></p>
+
+<p>Donde vivo ahora no tengo balcón ni patio ni lugar donde colgar la ropa cuando lavo (y tampoco hay secadora). Donde vivía antes había un tendedero como <a href="http://www.flickr.com/photos/90965059@N04/8269947423/" title="Drying rack" target="_blank">este</a>. Pensé que comprar el mismo pero teniendo tan poco espacio y sin poder instalar algo permanente, opté por esta opción: es un <strong>tendedero que se cuelga sobre la puerta</strong>. Aquí lo hago en la puerta del baño porque es donde está el extractor pero puede ser en cualquiera. Así la ropa se seca más rápido y puedo seguir usando el espacio sin tener que mover el tendedero atravesado :)
+<strong>El tendedero que tengo costó unos 6 euros.</strong></p>
+
+<h3>3. Algunas cosas tienen más de un uso</h3>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-11-13.59.01.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-11-13.59.01.jpg" alt="Servilletero" width="431" height="500" class="aligncenter size-full wp-image-1507" /></a></p>
+
+<p>Usaba esto como servilletero (su uso real) hasta que encontré <a href="http://www.ikea.com/nl/nl/catalog/products/30235969/" title="RYMLIG" target="_blank">este</a> y lo amé con locura. Así que, ¿qué hacer con el viejo? Un día estaba organizando la alacena y vi el servilletero vacío al lado de los envases de vidrio y algo hizo click en mi cabeza. Ahora tengo el <strong>servilletero con mis envases de vidrio</strong> con frutos secos para mis meriendas en mi repisa.<br/>
+<strong>Un servilletero como este cuesta unos 2 euros.</strong></p>
+
+<h3>4. Utiliza archivadores para guardar cosas de distintos tamaños</h3>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-14.58.26.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-14.58.26.jpg" alt="Archivadores por detrás" width="500" height="336" class="aligncenter size-full wp-image-1512" /></a></p>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-15.10.50.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-15.10.50.jpg" alt="Archivadores" width="500" height="248" class="aligncenter size-full wp-image-1513" /></a></p>
+
+<p>No sólo se ve mejor sino que es mucho más fácil sacar o guardar lo que necesitas. Hay archivadores de distintos materiales, los más económicos son de cartón como los míos y si no consigues donde comprarlos, también los puedes hacer, hay muchos tutoriales y plantillas gratis. Además, no tienen que ser libros o revistas necesariamente, yo guardo otras cosas.<br/>
+<strong>Un juego de 5 archivadores de cartón cuesta 1.50 euros, así que gasté 3 euros en total</strong>.</p>
+
+<h3>5. Utiliza ventosas</h3>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-15.03.091.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-15.03.091.jpg" alt="Ventosas" width="500" height="375" class="aligncenter size-full wp-image-1517" /></a><br/>
+<a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-15.04.29.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-15.04.29.jpg" alt="Ventosas" width="375" height="500" class="aligncenter size-full wp-image-1516" /></a></p>
+
+<p>Las ventosas o chupones son súper útiles cuando no se pueden abrir huecos en la pared y lo que se quiere colgar no es muy pesado. En este caso, quise aprovechar para colgar mis textiles de cocina al lado de mi nevera (la cocina compartida es un desastre) y también para sostener el papel higiénico en el baño. Se me acaba de ocurrir que en la nevera también serviría un imán con gancho.<br/>
+<strong>Un juego de 8 ventosas me costó 1 euro.</strong></p>
+
+<h3>6. Aprovecha el espacio debajo de la cama</h3>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-15.01.201.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-15.01.201.jpg" alt="Debajo de la cama" width="500" height="375" class="aligncenter size-full wp-image-1520" /></a></p>
+
+<p>¿Qué hay debajo de tu cama? ¿Nada? ¿Sucio? ¿Tu gato? ¿Un desastre? Ahora que me mudé tuve que invertir en varios muebles pero aún no fue suficiente para acomodar todo así que decidí <strong>aprovechar el espacio debajo de la cama</strong>. Sólo necesitas cajas que no excedan los 12 cm de alto para camas bajas como la mía. Es preferible que sean de plástico porque si son de cartón puede ser una receta para el desastre si se derrama algún líquido cerca. Hay algunas cajas que tienen ruedas y es mucho mejor si quieres guardar algo que usarás con frecuencia.<br/>
+<strong>Las cajas para debajo de la cama que yo compré me costaron 9.99 euros.</strong></p>
+
+<h3>7. Reutiliza, organiza</h3>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-13.09.33.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-13.09.33.jpg" alt="Reutilizar" width="500" height="529" class="aligncenter size-full wp-image-1521" /></a></p>
+
+<p>Confieso que soy MUY ordenada pero no siempre lo fui. Las gavetas en mi casa en Maracaibo son un desastre. Desde que vivo sola he <strong>reutilizado latas, cajas, envases para organizar las gavetas por dentro</strong>. También he invertido en unos juegos de cajas de cartón y tela para el clóset. Es mucho mejor que simplemente meter cualquier cosa o intentar que se mantengan en orden dentro de la gaveta. Muchas cosas tienen potencial como las latas de galletas, las cajas de zapatos, etc.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Aaand, We&#8217;re Back!]]></title>
+    <link href="http://blog.andreabravo.me/2013/02/aaand-were-back/"/>
+    <updated>2013-02-02T00:00:00+01:00</updated>
+    <id>http://blog.andreabravo.me/2013/02/aaand-were-back</id>
+    <content type="html"><![CDATA[<p><a href="http://www.etsy.com/listing/103511809/keep-calm-and-blog-on-large-13x19"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/02/blogon-300x300.jpg" alt="Keep calm and blog on " width="300" height="300" class="aligncenter size-medium wp-image-1379" /></a></p>
+
+<p>Luego de algunos problemas técnicos y cambio de hosting, mi blog está de vuelta. Debo confesar que a pesar de que no escribo tanto, me tenía ansiosa no tener mi espacio disponible.</p>
+
+<p>Así que ¡ya está! Este año espero escribir aunque sea un poquito más que el anterior :)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Reeddit, Cliente Minimalista Para Reddit]]></title>
+    <link href="http://blog.andreabravo.me/2012/11/reeddit-cliente-minimalista-para-reddit/"/>
+    <updated>2012-11-23T00:00:00+01:00</updated>
+    <id>http://blog.andreabravo.me/2012/11/reeddit-cliente-minimalista-para-reddit</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/11/Reeddit.png"><img src="http://blog.andreabravo.me/wp-content/uploads/2012/11/Reeddit.png" alt="Reeddit, lector minimalista de Reddit" width="267" height="72" class="aligncenter size-full wp-image-1368" /></a></p>
+
+<p><a href="http://es.wikipedia.org/wiki/Reddit" title="reddit en Wikipedia" target="_blank">reddit</a> es un sitio donde los usuarios colaboran con enlaces a contenidos y donde éstos reciben comentarios y votos. Su ranking varía según su calidad, determinada por los usuarios a través de esos votos. Se ha convertido en una especie de <strong>página de inicio de Internet</strong>. Si entras al sitio te darás cuenta de que la interfaz es tan simple que tiende a ser un poco fea (sobre todo por los colores, muy 1998), por lo que cada vez se ven más clientes con distintas características.</p>
+
+<p><a href="https://twitter.com/berbaquero" title="Ber Baquero Stand en Twitter" target="_blank">Ber Baquero Stand</a> ha desarrollado esta aplicación en su tiempo libre, denominada Reeddit. <a href="http://berbaquero.github.com/reeddit/about/" title="About Reeddit" target="_blank">Reeddit</a>, es un cliente de sólo lectura, lo cual le otorga mucha <strong>simplicidad</strong>. Es ideal para consumir el contenido y los comentarios, simplemente leer como quien lee las noticias por la mañana. Sobre todo para quienes no conocíamos reddit anteriormente, Reeddit es una buena puerta de entrada.</p>
+
+<p>Además, la aplicación se vale del <strong>diseño web adaptativo</strong> para responder adecuadamente a los distintos tamaños de pantalla. Así, es posible utilizar la app desde casi cualquier dispositivo, tanto de escritorio como tabletas y móviles.</p>
+
+<p>En todos los casos, a la izquierda se muestra una lista de hilos (que en reddit se conocen como <em>subreddits</em>). Esta lista se puede modificar, eliminando los canales que no nos interesen y agregando los que sí. La aplicación guarda localmente todas estas preferencias <strong>sin necesidad de crear un usuario o iniciar sesión</strong>, así que para mi es un <em>plus</em>.</p>
+
+<p>Una característica interesante es la de <strong>agrupar hasta 3 <em>subreddits</em> en canales</strong> y así leer lo que más nos interesa en un solo lugar. Por ejemplo, digamos que te gusta estar al día con la tecnología, puedes agrupar los <em>subreddits</em> de Apple, Google, iOS y Android o si eres fiel seguidor de series, digamos que agrupas Mad Men, Breaking Bad y Community. También es posible agrupar sólo dos hilos.</p>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/11/Reeddit_2columns.png"><img src="http://blog.andreabravo.me/wp-content/uploads/2012/11/Reeddit_2columns-300x258.png" alt="Reeddit, vista de 2 columnas" width="300" height="258" class="aligncenter size-medium wp-image-1369" /></a></p>
+
+<p>Para utilizar la aplicación, puedes entrar directamente <a href="http://berbaquero.github.com/reeddit/" title="Reeddit en Gihub" target="_blank">aquí</a></p>
+]]></content>
+  </entry>
+  
+</feed>

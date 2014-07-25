@@ -1,0 +1,2240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[theCookInMe]]></title>
+  <link href="http://blog.andreabravo.me/atom.xml" rel="self"/>
+  <link href="http://blog.andreabravo.me/"/>
+  <updated>2014-07-25T23:02:00+02:00</updated>
+  <id>http://blog.andreabravo.me/</id>
+  <author>
+    <name><![CDATA[Andrea Bravo Balado]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Linking Historical Ship Records to Newspaper Archives]]></title>
+    <link href="http://blog.andreabravo.me/2014/07/linking-historical-ship-records-to-newspaper-archives/"/>
+    <updated>2014-07-25T00:00:00+02:00</updated>
+    <id>http://blog.andreabravo.me/2014/07/linking-historical-ship-records-to-newspaper-archives</id>
+    <content type="html"><![CDATA[<p><strong>Linking historical datasets</strong> and making them available for the Web has increasingly become a subject of research in the field of <strong>digital humanities</strong>. In the Netherlands, history is intimately related to the <strong>maritime activity</strong> because it has been essential in the development of economic, social and cultural aspects of Dutch society. As such an important sector, it has been well documented by shipping companies, governments, newspapers and other institutions.
+In this master project we assume that, given the importance of maritime activity in every day life in the XIX and XX centuries, announcements on the departures and arrivals of ships or mentions of accidents or other events, can be found in newspapers.
+We have taken a two-stage approach: first, an heuristic-based method for <strong>record linkage</strong> and then <strong>machine-learning algorithms</strong> for article classification to be used for filtering in combination with domain features. Evaluation of the linking method has shown that certain domain features were indicative of mentions of ships in newspapers. Moreover, the classifier methods scored near perfect precision in predicting ship related articles.
+Enriching historical ship records with links to newspaper archives is significant for the digital history community since it connects two datasets that would have otherwise required extensive annotating work and man hours to align. Our work is part of the <a href=“http://dutchshipsandsailors.nl/”>Dutch Ships and Sailors Linked Data Cloud></a> project.</p>
+
+<iframe src="https://docs.google.com/presentation/d/1HSzQIWc5SX4AGjOsOlja6gF-n44OwGJRxixklUSQ6Gs/embed?start=false&loop=false&delayms=30000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[¡De Vuelta!]]></title>
+    <link href="http://blog.andreabravo.me/2014/02/de-vuelta/"/>
+    <updated>2014-02-15T00:00:00+01:00</updated>
+    <id>http://blog.andreabravo.me/2014/02/de-vuelta</id>
+    <content type="html"><![CDATA[<p>Una vez más he mudado mi blog. Esta vez, he decidido alojar mi sitio en Github Pages y utilizo Octopress como framework para el blog.
+Fueron muchas las búsquedas de instrucciones, resolución de errores y ensayo y error pero al fin lo logré :)
+Fui un poco desordenada y no documenté lo que iba haciendo, así que para explicarlo mejor necesitaré otro post y así tal vez le ahorre un montón de tiempo a alguien más.
+Además del cambio de tecnología, decidí cambiarle el nombre al blog. Si bien me gusta escribir sobre lo que me gusta y lo que hago, lo que más me gusta es escribir recetas, así que lo lógico es dedicar el blog a eso :) después de todo, los posts de recetas son más frecuentes que los demás.</p>
+
+<p>Bienvenido el 2014 (un poco tarde, ¿eh?)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ponquecitos De Zanahoria Sin Azúcar Y Sin Harina]]></title>
+    <link href="http://blog.andreabravo.me/2013/11/ponquecitos-de-zanahoria-sin-azucar-y-sin-harina/"/>
+    <updated>2013-11-27T00:00:00+01:00</updated>
+    <id>http://blog.andreabravo.me/2013/11/ponquecitos-de-zanahoria-sin-azucar-y-sin-harina</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/11/Ponquecitos-de-zanahoria.jpg"><img class="aligncenter size-full wp-image-1612" alt="Ponquecitos de zanahoria" src="http://blog.andreabravo.me/wp-content/uploads/2013/11/Ponquecitos-de-zanahoria.jpg" width="600" height="450" /></a></p>
+
+<p>Desde mi cumpleaños y la semana siguiente que probé dos <strong>tortas de zanahoria</strong> en dos sitios distintos, quedé con las ganas de conseguir una receta <strong>sin azúcar ni harina y baja en carbohidratos</strong>. Todas las recetas que conseguí sin harina, tenía azúcar morena y las que no tenían azúcar, llevaban jarabe de agave o miel, que no son precisamente low-carb. Sino, tenían una laaarga lista de ingredientes y yo prefiero cocinar con menos.</p>
+
+<p>Probé varias veces y al fin conseguí una receta con la que estoy 100% feliz. Estoy segura de que esta receta sirve para una torta/tarta/pastel pequeña, pero como mi horno es pequeñito, se me hace más fácil hacer ponquecitos/magdalenas. ¡Aquí les dejo la receta!</p>
+
+<div class="blog-yumprint-recipe blog-yumprint-stat-focus blog-yumprint-numbered-methods " yumprintrecipe="dFRV" itemscope itemtype="http://schema.org/Recipe">
+<img class="blog-yumprint-google-image" src="http://blog.andreabravo.me/wp-content/uploads/2013/11/Ponquecitos-de-zanahoria.jpg" style="display:block;position:absolute;left:-10000px;top:-10000px;" itemprop="image" /> <div class="blog-yumprint-photo-top" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2013/11/Ponquecitos-de-zanahoria.jpg)">
+</div>
+
+<div class="blog-yumprint-recipe-title" itemprop="name">
+Ponquecitos de zanahoria sin azúcar y sin harina
+</div>
+
+<div class="blog-yumprint-recipe-published" itemprop="datePublished">
+2013-11-27 05:26:54
+</div>
+
+<img class="blog-yumprint-photo-top-large" src="http://blog.andreabravo.me/wp-content/uploads/2013/11/Ponquecitos-de-zanahoria.jpg" /> <div class="blog-yumprint-serves">
+Porciones: 6
+</div>
+
+<div class="blog-yumprint-recipe-summary" itemprop="description">
+Deliciosos ponquecitos/magdalenas de zanahoria (carrot cake) con nevado de queso, sin azúcar y sin gluten.
+</div>
+
+<div class="blog-yumprint-spacer">
+</div>
+
+<div class="blog-yumprint-info-bar">
+<div class="blog-yumprint-infobar-section">
+<div class="blog-yumprint-infobar-section-title">
+Preparación
+</div>
+
+<div class="blog-yumprint-infobar-section-data" itemprop="prepTime" datetime="PT10M">
+10 min <span class="value-title" title="PT10M"></span>
+</div>
+</div>
+
+<div class="blog-yumprint-infobar-section">
+<div class="blog-yumprint-infobar-section-title">
+Cocción
+</div>
+
+<div class="blog-yumprint-infobar-section-data" itemprop="cookTime" datetime="PT30M">
+30 min <span class="value-title" title="PT30M"></span>
+</div>
+</div>
+
+<div class="blog-yumprint-infobar-section">
+<div class="blog-yumprint-infobar-section-title">
+Listo en
+</div>
+
+<div class="blog-yumprint-infobar-section-data" itemprop="totalTime" datetime="PT40M">
+40 min <span class="value-title" title="PT40M"></span>
+</div>
+</div>
+</div>
+
+<div class="blog-yumprint-recipe-contents">
+<div class="blog-yumprint-photo-middle" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2013/11/Ponquecitos-de-zanahoria.jpg)">
+</div>
+
+<div class="blog-yumprint-info-box">
+<div class="blog-yumprint-infobox-section">
+<div class="blog-yumprint-infobox-section-title">
+Preparación
+</div>
+
+<div class="duration-blog-yumprint-infobox-section-data" itemprop="prepTime" dateTime="PT10M">
+10 min <span class="value-title" title="PT10M"></span>
+</div>
+</div>
+
+<div class="blog-yumprint-infobox-section">
+<div class="blog-yumprint-infobox-section-title">
+Cocción
+</div>
+
+<div class="duration-blog-yumprint-infobox-section-data" itemprop="cookTime" dateTime="PT30M">
+30 min <span class="value-title" title="PT30M"></span>
+</div>
+</div>
+
+<div class="blog-yumprint-infobox-section">
+<div class="blog-yumprint-infobox-section-title">
+Listo en
+</div>
+
+<div class="duration-blog-yumprint-infobox-section-data" itemprop="totalTime" datetime="PT40M">
+40 min <span class="value-title" title="PT40M"></span>
+</div>
+</div>
+</div>
+
+<div class="blog-yumprint-ingredient-section" yumprintsection="0">
+<div class="blog-yumprint-subheader">
+Ingredientes
+</div>
+
+<ol class='blog-yumprint-ingredients'>
+<li class="blog-yumprint-ingredient-item" yumprintitem="0" itemprop="ingredients">
+<h4>
+Para los ponquecitos
+</h4>
+</li>
+
+<li class="blog-yumprint-ingredient-item" yumprintitem="1" itemprop="ingredients">
+3 <strong>huevos.</strong>
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="2" itemprop="ingredients">
+1/4 taza de <strong>eritritol+stevia</strong>, stevia granulada o jarabe de arce (maple).
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="3" itemprop="ingredients">
+1/4 de taza de <strong>aceite de coco.</strong> (derretido en baño de María o microondas).
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="4" itemprop="ingredients">
+1 cucharada de <strong>extracto de vainilla.</strong>
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="5" itemprop="ingredients">
+1/2 taza (50-55g) de <strong>harina de almendras.</strong>
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="6" itemprop="ingredients">
+3 cucharadas (25 g) de <strong>harina de coco.</strong>
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="7" itemprop="ingredients">
+1/2 cucharada de <strong>canela en polvo.</strong>
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="8" itemprop="ingredients">
+1/4 cucharadita de <strong>bicarbonato de sodio.</strong>
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="9" itemprop="ingredients">
+1/4 cucharadita de <strong>sal marina.</strong>
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="10" itemprop="ingredients">
+1-2 <strong>zanahorias ralladas.</strong>
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="11" itemprop="ingredients">
+<br />
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="12" itemprop="ingredients">
+<h4>
+Para el nevado
+</h4>
+</li>
+
+<li class="blog-yumprint-ingredient-item" yumprintitem="13" itemprop="ingredients">
+4-5 cucharadas de <strong>queso cottage</strong> (también se puede utilizar queso crema, mascarpone o ricotta).
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="14" itemprop="ingredients">
+1 cucharada de <strong>mantequilla de merey</strong> (también puede ser de algún otro fruto seco o mantequilla fría).
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="15" itemprop="ingredients">
+4-5 gotas de <strong>stevia líquida</strong> (al gusto).
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="16" itemprop="ingredients">
+1/4 cucharadita de <strong>extracto de vainilla</strong> (opcional, al gusto).
+</li>
+</ol>
+</div>
+
+<div class="blog-yumprint-method-section" yumprintsection="1">
+<div class="blog-yumprint-subheader">
+Preparación
+</div>
+
+<ol class="blog-yumprint-methods" itemprop="recipeInstructions">
+<li class="blog-yumprint-method-item" yumprintitem="0">
+<strong>Precalienta</strong> el horno a temperatura media, 180°C o 350°F.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="1">
+<strong>Mezcla</strong> los huevos y la mezcla de eritritol+stevia o stevia granulada, el aceite de coco derretido y la vainilla en recipiente. Mezcla (puede ser a mano) hasta que esté homogéneo.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="2">
+En otro recipiente, <strong>mezcla</strong> los ingredientes secos: harina de almendras, harina de coco, canela, bicarbonato y sal marina.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="3">
+Para <strong>incorporar</strong> la mezcla de ingredientes secos con los líquidos, utiliza un colador para tamizar y una vez que estén en el mismo recipiente, mezcla en forma envolvente hasta que sea homogéneo.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="4">
+<strong>Agrega</strong> la zanahoria rallada al gusto.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="5">
+<strong>Hornea</strong> por 25-30 minutos o hasta que un palito de madera salga seco.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="6">
+Mientras tanto, <strong>mezcla</strong> en un procesador de alimentos los ingredientes para el nevado y mezcla hasta que esté homogéneo y te guste el sabor.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="7">
+Una vez que los ponquecitos estén fríos, <strong>corta</strong> por la mitad horizontal con un cuchillo afilado y agrega nevado. <strong>Agrega nevado</strong> en la parte de arriba y arma nuevamente el ponquecito. Repite con cada uno.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="8">
+<strong>Refrigera</strong> para que el nevado endurezca un poco y sean más fáciles de manejar.
+</li>
+</ol>
+</div>
+
+<div class="blog-yumprint-note-section" yumprintsection="2">
+<div class="blog-yumprint-subheader">
+Notas
+</div>
+
+<ol class='blog-yumprint-notes'>
+<li class="blog-yumprint-note-item" yumprintitem="0">
+Para decorar: 5-6 nueces, almendras o avellanas picadas (opcional) o zanahoria rallada.
+</li>
+</ol>
+</div>
+
+<div class="author blog-yumprint-author" itemprop="author">
+Por Andrea Bravo Balado
+</div>
+
+<div class="blog-yumprint-recipe-source">
+theCookInMe http://blog.andreabravo.me
+</div>
+</div>
+</div>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tartaletas Primal/veganas De Banana Y Frutos Secos]]></title>
+    <link href="http://blog.andreabravo.me/2013/11/tartaletas-primalveganas-de-banana-y-frutos-secos/"/>
+    <updated>2013-11-16T00:00:00+01:00</updated>
+    <id>http://blog.andreabravo.me/2013/11/tartaletas-primalveganas-de-banana-y-frutos-secos</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/11/2013-11-16-15.43.50-copy.jpg"><img class="aligncenter size-full wp-image-1602" alt="Tartaletas primal/veganas de banana y frutos secos" src="http://blog.andreabravo.me/wp-content/uploads/2013/11/2013-11-16-15.43.50-copy.jpg" width="600" height="450" /></a></p>
+
+<p>Llega el fin de semana y llegan las ganas de comer algo dulce. Esta es una receta fabulosa de <a href="https://www.facebook.com/MaiaAldecoaPt" title="Maia Aldecoa en Facebook" target="_blank">Maia Aldecoa</a> que adapté según mis necesidades y los ingredientes que tenía. Primero, hice la mitad de la receta (porque son para mi sola) y además, utilicé harina de almendras en lugar de almendras enteras (en la misma proporción). También usé aceite de coco en lugar de mantequilla de coco y usé moldes individuales. ¡Son deliciosas y rápidas de hacer!</p>
+
+<p>Se podría decir que además de <strong>primal</strong> y <strong>veganas</strong>, también son <strong><em>raw</em></strong>, porque no requiere cocción. Sin embargo, si elevar la temperatura de la comida se considera cocinar, creo que bajarla también es una forma de cocción (sino, el helado también sería crudo, ¿no?). En cualquier caso, son riquísimas, súper saludables y <strong>sin azúcar, sin harina, sin gluten, sin cereales, sin granos, sin aceites hidrogenados, sin edulcorantes</strong> &lt;3</p>
+
+<div class="blog-yumprint-recipe blog-yumprint-stat-focus blog-yumprint-numbered-methods " yumprintrecipe="djuf" itemscope itemtype="http://schema.org/Recipe">
+<img class="blog-yumprint-google-image" src="http://blog.andreabravo.me/wp-content/uploads/2013/11/2013-11-16-15.43.50-copy.jpg" style="display:block;position:absolute;left:-10000px;top:-10000px;" itemprop="image" /> <div class="blog-yumprint-photo-top" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2013/11/2013-11-16-15.43.50-copy.jpg)">
+</div>
+
+<div class="blog-yumprint-recipe-title" itemprop="name">
+Tartaletas primal/veganas de banana y frutos secos
+</div>
+
+<div class="blog-yumprint-recipe-published" itemprop="datePublished">
+2013-11-16 07:56:43
+</div>
+
+<img class="blog-yumprint-photo-top-large" src="http://blog.andreabravo.me/wp-content/uploads/2013/11/2013-11-16-15.43.50-copy.jpg" /> <div class="blog-yumprint-serves">
+Porciones: 4
+</div>
+
+<div class="blog-yumprint-recipe-summary" itemprop="description">
+Deliciosas tartaletas de banana y frutos secos. No lleva azúcar, ni harina, ni edulcorantes <3
+</div>
+
+<div class="blog-yumprint-spacer">
+</div>
+
+<div class="blog-yumprint-info-bar">
+<div class="blog-yumprint-infobar-section">
+<div class="blog-yumprint-infobar-section-title">
+Preparación
+</div>
+
+<div class="duration-blog-yumprint-infobox-section-data" itemprop="prepTime" datetime="PT10M">
+10 min <span class="value-title" title="PT10M"></span>
+</div>
+</div>
+
+<div class="blog-yumprint-infobar-section">
+<div class="blog-yumprint-infobar-section-title">
+Cocción
+</div>
+
+<div class="duration-blog-yumprint-infobox-section-data" itemprop="cookTime" datetime="PT2H">
+2 hr <span class="value-title" title="PT2H"></span>
+</div>
+</div>
+</div>
+
+<div class="blog-yumprint-recipe-contents">
+<div class="blog-yumprint-photo-middle" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2013/11/2013-11-16-15.43.50-copy.jpg)">
+</div>
+
+<div class="blog-yumprint-info-box">
+<div class="blog-yumprint-infobox-section">
+<div class="blog-yumprint-infobox-section-title">
+Preparación
+</div>
+
+<div class="duration-blog-yumprint-infobox-section-data" itemprop="prepTime" dateTime="PT10M">
+10 min <span class="value-title" title="PT10M"></span>
+</div>
+</div>
+
+<div class="blog-yumprint-infobox-section">
+<div class="blog-yumprint-infobox-section-title">
+Cocción
+</div>
+
+<div class="duration-blog-yumprint-infobox-section-data" itemprop="cookTime" dateTime="PT2H">
+2 hr <span class="value-title" title="PT2H"></span>
+</div>
+</div>
+</div>
+
+<div class="blog-yumprint-ingredient-section" yumprintsection="0">
+<div class="blog-yumprint-subheader">
+Para la base
+</div>
+
+<ol class='blog-yumprint-ingredients'>
+<li class="blog-yumprint-ingredient-item" yumprintitem="0" itemprop="ingredients">
+3/4 de taza de <strong>harina de almendras.</strong>
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="1" itemprop="ingredients">
+1/2 cucharada de <strong>mantequilla de merey.</strong>
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="2" itemprop="ingredients">
+1 cucharada de <strong>aceite de coco</strong> (derretido).
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="3" itemprop="ingredients">
+1/4 cucharadita de <strong>canela</strong> en polvo.
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="4" itemprop="ingredients">
+<strong>Sal</strong> al gusto.
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="5" itemprop="ingredients">
+Para el relleno
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="6" itemprop="ingredients">
+1 <strong>cambur/banana.</strong>
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="7" itemprop="ingredients">
+1 cucharada de <strong>mantequilla de merey.</strong>
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="8" itemprop="ingredients">
+2 cucharadas de <strong>aceite de coco</strong> (derredito).
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="9" itemprop="ingredients">
+1/2 cucharadita de <strong>extracto/esencia de vanilla.</strong>
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="10" itemprop="ingredients">
+<strong>Sal</strong> al gusto (ayuda a resaltar el sabor dulce)
+</li>
+</ol>
+</div>
+
+<div class="blog-yumprint-method-section" yumprintsection="1">
+<div class="blog-yumprint-subheader">
+Preparación
+</div>
+
+<ol class="blog-yumprint-methods" itemprop="recipeInstructions">
+<li class="blog-yumprint-method-item" yumprintitem="0">
+<strong>Mezcla</strong> todos los ingredientes de la base en un procesador. La textura es un poco arenosa pero un tanto flexible.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="1">
+<strong>Divide</strong> en 4 moldes individuales y aplana para armar la base.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="2">
+<strong>Lleva</strong> al congelador.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="3">
+<strong>Mezcla</strong> el resto de los ingredientes en el mismo procesador hasta que quede una mezcla homogénea.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="4">
+<strong>Divide</strong> entre los 4 moldes.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="5">
+<strong>Lleva</strong> al congelador por 1-2 horas.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="6">
+Para servir, <strong>derrite</strong> 2 cuadritos de chocolate negro en baño de María, y esparcir sobre las tartaletas :)
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="7">
+<strong>¡Disfrutar!</strong>
+</li>
+</ol>
+</div>
+
+<div class="author blog-yumprint-author" itemprop="author">
+Por Andrea Bravo Balado
+</div>
+
+<div class="blog-yumprint-adapted">
+Adaptación de <a class="blog-yumprint-adapted-link" href="https://www.facebook.com/photo.php?fbid=611453632251910&set=pb.418140014916607.-2207520000.1384617024.&type=3&theater"> Maia Aldecoa </a>
+</div>
+
+<div class="blog-yumprint-adapted-print">
+Adaptación de Maia Aldecoa
+</div>
+
+<div class="blog-yumprint-recipe-source">
+theCookInMe http://blog.andreabravo.me/
+</div>
+</div>
+</div>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Galletas De 3 Ingredientes]]></title>
+    <link href="http://blog.andreabravo.me/2013/10/galletas-de-3-ingredientes/"/>
+    <updated>2013-10-02T00:00:00+02:00</updated>
+    <id>http://blog.andreabravo.me/2013/10/galletas-de-3-ingredientes</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/10/galletas_3_ingredientes.png"><img class="aligncenter size-full wp-image-1538" alt="Galletas de 3 ingredientes" src="http://blog.andreabravo.me/wp-content/uploads/2013/10/galletas_3_ingredientes.png" width="600" height="428" /></a></p>
+
+<p>Si hay algo que me encaaaaaaanta son las <strong>galletas</strong>. Normalmente evito comprar las procesadas porque sé que me las voy a comer todas una vez abra el paquete. Si hay otra cosa que me encanta son las recetas fáciles y con pocos ingredientes. Hace como 2 meses encontré el blog <a title="Blogilates" href="http://www.blogilates.com/" target="_blank">Cassey Ho</a>, una instructora de fitness y pilates que comparte rutinas de ejercicios, vídeos, recetas, etc. y me he enamorado de ella &lt;3</p>
+
+<div class="blog-yumprint-recipe blog-yumprint-stat-focus   blog-yumprint-numbered-methods " yumprintrecipe="cPTC" itemscope itemtype="http://schema.org/Recipe">
+  <img class="blog-yumprint-google-image" src="http://blog.andreabravo.me/wp-content/uploads/2013/10/galletas_3_ingredientes.png" style="display:block;position:absolute;left:-10000px;top:-10000px;" itemprop="image" /> <div class="blog-yumprint-photo-top" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2013/10/galletas_3_ingredientes.png)">
+  </div>
+  
+  <div class="blog-yumprint-recipe-title" itemprop="name">
+    Galletas de 3 ingredientes
+  </div>
+  
+  <div class="blog-yumprint-recipe-published" itemprop="datePublished">
+    2013-10-28 04:07:53
+  </div>
+  
+  <img class="blog-yumprint-photo-top-large" src="http://blog.andreabravo.me/wp-content/uploads/2013/10/galletas_3_ingredientes.png" /> <div class="blog-yumprint-serves">
+    Porciones: 6
+  </div>
+  
+  <div class="blog-yumprint-recipe-summary" itemprop="description">
+    Galletas sencillas y saludables de 3 ingredientes para merendar, bajas en carbohidratos, sin azúcar ni harina ni químicos ni huevo.
+  </div>
+  
+  <div class="blog-yumprint-spacer">
+  </div>
+  
+  <div class="blog-yumprint-info-bar">
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Preparación
+      </div>
+      
+      <div class="blog-yumprint-infobar-section-data" itemprop="prepTime" datetime="PT5M">
+        5 min <span class="value-title" title="PT5M"></span>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Cocción
+      </div>
+      
+      <div class="blog-yumprint-infobar-section-data" itemprop="cookTime" datetime="PT25M">
+        25 min <span class="value-title" title="PT25M"></span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="blog-yumprint-recipe-contents">
+    <div class="blog-yumprint-photo-middle" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2013/10/galletas_3_ingredientes.png)">
+    </div>
+    
+    <div class="blog-yumprint-info-box">
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Preparación
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="prepTime" dateTime="PT5M">
+          5 min <span class="value-title" title="PT5M"></span>
+        </div>
+      </div>
+      
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Cocción
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="cookTime" dateTime="PT25M">
+          25 min <span class="value-title" title="PT25M"></span>
+        </div>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-ingredient-section" yumprintsection="0">
+      <div class="blog-yumprint-subheader">
+        Ingredientes
+      </div>
+      
+      <ol class='blog-yumprint-ingredients'>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="0" itemprop="ingredients">
+          1 <strong>cambur/banana/banano/plátano</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="1" itemprop="ingredients">
+          1 taza <strong>harina de almendras</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="2" itemprop="ingredients">
+          (también puede ser avena en hojuelas o harina de avena)
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="3" itemprop="ingredients">
+          Opcional: 2 cuadritos de una barra de <strong>chocolate</strong> negro (aprox. 25 g)
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="4" itemprop="ingredients">
+          (también puedes usar chispas de chocolate)*
+        </li>
+      </ol>
+    </div>
+    
+    <div class="blog-yumprint-method-section" yumprintsection="1">
+      <div class="blog-yumprint-subheader">
+        Preparación
+      </div>
+      
+      <ol class="blog-yumprint-methods" itemprop="recipeInstructions">
+        <li class="blog-yumprint-method-item" yumprintitem="0">
+          <strong>Precalienta</strong> el horno a 180°C o 350 °F.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="1">
+          <strong>Mezcla</strong> el cambur y la harina con las manos hasta formar una masa homogénea.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="2">
+          <strong>Agrega</strong> el chocolate cortado en trozos más pequeños.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="3">
+          <strong>Forma</strong> bolitas, aplasta y coloca en la bandeja para hornear.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="4">
+          <strong>Hornea</strong> por unos 25-30 minutos o hasta que doren.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="5">
+          <strong>Espera</strong> que se enfríen. Yo sé que quieres probarlas pero calientes no tienen gracia.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="6">
+          <strong>¡Listo!</strong>
+        </li>
+      </ol>
+    </div>
+    
+    <div class="blog-yumprint-note-section" yumprintsection="2">
+      <div class="blog-yumprint-subheader">
+        Notas
+      </div>
+      
+      <ol class='blog-yumprint-notes'>
+        <li class="blog-yumprint-note-item" yumprintitem="0">
+          * Una amiga me comentó que en lugar de chocolate, usó <strong>coco rallado</strong> y dice que quedan ricas.
+        </li>
+      </ol>
+    </div>
+    
+    <div class="author blog-yumprint-author" itemprop="author">
+      Por Andrea Bravo Balado
+    </div>
+    
+    <div class="blog-yumprint-adapted">
+      Adaptación de <a class="blog-yumprint-adapted-link" href="http://www.blogilates.com/recipe-index/healthy-desserts/easiest-healthiest-cookie-recipe-in-the-world"> Cassey Ho | Blogilates </a>
+    </div>
+    
+    <div class="blog-yumprint-adapted-print">
+      Adaptación de Cassey Ho | Blogilates
+    </div>
+    
+    <div class="blog-yumprint-recipe-source">
+      theCookInMe http://blog.andreabravo.me/
+    </div>
+  </div>
+</div>
+
+
+<p>¿Qué tal? Aunque prefiero las galletas crocantes, éstas me quitan el antojo de comer galletas sin salirme mucho de la alimentación limpia.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Galletas Saladas Bajas en Carbohidratos]]></title>
+    <link href="http://blog.andreabravo.me/2013/09/galletas-saladas-bajas-en-carbohidratos/"/>
+    <updated>2013-09-16T00:00:00+02:00</updated>
+    <id>http://blog.andreabravo.me/2013/09/galletas-saladas-bajas-en-carbohidratos</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/Galletas.png"><img class="aligncenter size-full wp-image-1528" alt="Galletas saladas bajas en carbohidratos" src="http://blog.andreabravo.me/wp-content/uploads/2013/09/Galletas.png" width="500" height="375" /></a></p>
+
+<p>Hoy tenía muchas ganas de comer <strong>galletas saladas</strong> pero no tenía ganas de ir a la tienda y tampoco quería comprar de las normales de la tienda y se me ocurrió experimentar y salieron estas galletas. Quedan bien ricas y lo mejor es que <strong>si quieres hacer más, simplemente duplicas o triplicas las cantidades</strong> ¡y ya está! (si tienes la suerte de tener un horno más grande que el mío).</p>
+
+<div class="blog-yumprint-recipe blog-yumprint-stat-focus   blog-yumprint-numbered-methods " yumprintrecipe="cNKo" itemscope itemtype="http://schema.org/Recipe">
+  <img class="blog-yumprint-google-image" src="http://blog.andreabravo.me/wp-content/uploads/2013/09/Galletas.png" style="display:block;position:absolute;left:-10000px;top:-10000px;" itemprop="image" /> <div class="blog-yumprint-photo-top" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2013/09/Galletas.png)">
+  </div>
+  
+  <div class="blog-yumprint-recipe-title" itemprop="name">
+    Galletas saladas bajas en carbohidratos
+  </div>
+  
+  <div class="blog-yumprint-recipe-published" itemprop="datePublished">
+    2013-10-26 13:20:22
+  </div>
+  
+  <img class="blog-yumprint-photo-top-large" src="http://blog.andreabravo.me/wp-content/uploads/2013/09/Galletas.png" /> <div class="blog-yumprint-serves">
+    Porciones: 1
+  </div>
+  
+  <div class="blog-yumprint-recipe-summary" itemprop="description">
+    Galletas saladas sin gluten, bajas en carbohidratos, para acompañar con queso, dips, etc.
+  </div>
+  
+  <div class="blog-yumprint-spacer">
+  </div>
+  
+  <div class="blog-yumprint-info-bar">
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Preparación
+      </div>
+      
+      <div class="duration-blog-yumprint-infobox-section-data" itemprop="prepTime" datetime="PT5M">
+        5 min <span class="value-title" title="PT5M"></span>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Cocción
+      </div>
+      
+      <div class="duration-blog-yumprint-infobox-section-data" itemprop="cookTime" datetime="PT15M">
+        15 min <span class="value-title" title="PT15M"></span>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Listo en
+      </div>
+      
+      <div class="duration-blog-yumprint-infobox-section-data" itemprop="totalTime" datetime="PT20M">
+        20 min <span class="value-title" title="PT20M"></span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="blog-yumprint-recipe-contents">
+    <div class="blog-yumprint-photo-middle" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2013/09/Galletas.png)">
+    </div>
+    
+    <div class="blog-yumprint-info-box">
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Preparación
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="prepTime" dateTime="PT5M">
+          5 min <span class="value-title" title="PT5M"></span>
+        </div>
+      </div>
+      
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Cocción
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="cookTime" dateTime="PT15M">
+          15 min <span class="value-title" title="PT15M"></span>
+        </div>
+      </div>
+      
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Listo en
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="totalTime" datetime="PT20M">
+          20 min <span class="value-title" title="PT20M"></span>
+        </div>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-ingredient-section" yumprintsection="0">
+      <div class="blog-yumprint-subheader">
+        Ingredientes
+      </div>
+      
+      <ol class='blog-yumprint-ingredients'>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="0" itemprop="ingredients">
+          1/4 taza <strong>harina de almendras</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="1" itemprop="ingredients">
+          1/4 taza <strong>linaza molida</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="2" itemprop="ingredients">
+          1/4 taza <strong>semillas de sésamo/ajonjolí</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="3" itemprop="ingredients">
+          1 <strong>huevo</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="4" itemprop="ingredients">
+          Sal, pimienta y hierbas al gusto
+        </li>
+      </ol>
+    </div>
+    
+    <div class="blog-yumprint-method-section" yumprintsection="1">
+      <div class="blog-yumprint-subheader">
+        Preparación
+      </div>
+      
+      <ol class="blog-yumprint-methods" itemprop="recipeInstructions">
+        <li class="blog-yumprint-method-item" yumprintitem="0">
+          <strong>Precalienta</strong> el horno a 200°C o 400 °F
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="1">
+          <strong>Mezcla</strong> la harina de almendras, la linaza y las semillas de sésamo
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="2">
+          <strong>Agrega</strong> sal, pimienta y hierbas al gusto
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="3">
+          <strong>Agrega</strong> el huevo en el centro de la mezcla e incorpora hasta que quede una bolita de masa (yo lo hice con las manos)
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="4">
+          En una bandeja con papel encerado, <strong>aplasta</strong> la masa hasta obtener el grosor que quieras
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="5">
+          <strong>Corta</strong> del tamaño que quieras antes de hornear para que no se partan
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="6">
+          <strong>Hornea</strong> por unos 15 minutos o hasta que luzcan firmes
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="7">
+          ¡Listo!
+        </li>
+      </ol>
+    </div>
+    
+    <div class="blog-yumprint-note-section" yumprintsection="2">
+      <div class="blog-yumprint-subheader">
+        Notas
+      </div>
+      
+      <ol class='blog-yumprint-notes'>
+        <li class="blog-yumprint-note-item" yumprintitem="0">
+          Quedan ricas con queso o algún dip y lo mejor es que tienen muchísima <strong>fibra</strong>. También se puede experimentar con otras semillas.
+        </li>
+      </ol>
+    </div>
+    
+    <div class="author blog-yumprint-author" itemprop="author">
+      Por Andrea Bravo Balado
+    </div>
+    
+    <div class="blog-yumprint-recipe-source">
+      theCookInMe http://blog.andreabravo.me/
+    </div>
+  </div>
+</div>
+
+
+<p>¿Qué te parecen?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[7 Ideas Para Aprovechar Mejor El Espacio]]></title>
+    <link href="http://blog.andreabravo.me/2013/09/7-ideas-para-aprovechar-mejor-el-espacio/"/>
+    <updated>2013-09-13T00:00:00+02:00</updated>
+    <id>http://blog.andreabravo.me/2013/09/7-ideas-para-aprovechar-mejor-el-espacio</id>
+    <content type="html"><![CDATA[<p>Hace poco más de un mes me mudé a (otra) habitación de estudiantes. Ahora tengo muchas más cosas que cuando me mudé inicialmente a Holanda. Es natural: donde vivía estaba amoblado y ahora tengo mis propias cosas. En los días que pasé intentando buscarle un lugar a cada cosa (soy maniática con esto), se me ocurrieron varios <strong>trucos</strong>, algunos que había visto en Internet y otros que simplemente aparecieron como el bombillito sobre la cabeza. Tal vez haya mejores formas de hacerlo pero, entre otras cosas, aquí no puedo hacer modificaciones mayores. Además, invertí muy poco dinero en esto : )</p>
+
+<p>Sin más, aquí están las <strong>7 ideas para aprovechar mejor el espacio</strong>:</p>
+
+<h3>1. Cuelga cestas en barras de cortinas</h3>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-11-14.02.431.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-11-14.02.431.jpg" alt="Cestas colgadas en barra" width="500" height="256" class="aligncenter size-full wp-image-1503" /></a></p>
+
+<p>En este caso, la barra ya estaba instalada (pero existen algunas que se sostienen sólo con tensión y no hace falta hacer modificaciones mayores) y necesitaba <strong>aprovechar el espacio sobre la nevera</strong> así que se me ocurrió colgar unas cestas que ya tenía. Al principio lo había hecho con tirro (soy la chica tirro, todo lo quiero resolver con eso jaja) pero había comenzado a ceder así que compré un juego de aros para cortina de baño. Claro que para esto necesitas unas cestas que tengan huecos o asas para poder colgarlas.<br/>
+<strong>Las cestas me costaron 0.99 euros c/u y los aros 2.50 euros por 12.</strong> Nada mal, ¿no?</p>
+
+<h3>2. Aprovecha el espacio vertical para secar la ropa</h3>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-11-14.05.511.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-11-14.05.511.jpg" alt="Tendedero" width="500" height="434" class="aligncenter size-full wp-image-1505" /></a></p>
+
+<p>Donde vivo ahora no tengo balcón ni patio ni lugar donde colgar la ropa cuando lavo (y tampoco hay secadora). Donde vivía antes había un tendedero como <a href="http://www.flickr.com/photos/90965059@N04/8269947423/" title="Drying rack" target="_blank">este</a>. Pensé que comprar el mismo pero teniendo tan poco espacio y sin poder instalar algo permanente, opté por esta opción: es un <strong>tendedero que se cuelga sobre la puerta</strong>. Aquí lo hago en la puerta del baño porque es donde está el extractor pero puede ser en cualquiera. Así la ropa se seca más rápido y puedo seguir usando el espacio sin tener que mover el tendedero atravesado :)
+<strong>El tendedero que tengo costó unos 6 euros.</strong></p>
+
+<h3>3. Algunas cosas tienen más de un uso</h3>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-11-13.59.01.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-11-13.59.01.jpg" alt="Servilletero" width="431" height="500" class="aligncenter size-full wp-image-1507" /></a></p>
+
+<p>Usaba esto como servilletero (su uso real) hasta que encontré <a href="http://www.ikea.com/nl/nl/catalog/products/30235969/" title="RYMLIG" target="_blank">este</a> y lo amé con locura. Así que, ¿qué hacer con el viejo? Un día estaba organizando la alacena y vi el servilletero vacío al lado de los envases de vidrio y algo hizo click en mi cabeza. Ahora tengo el <strong>servilletero con mis envases de vidrio</strong> con frutos secos para mis meriendas en mi repisa.<br/>
+<strong>Un servilletero como este cuesta unos 2 euros.</strong></p>
+
+<h3>4. Utiliza archivadores para guardar cosas de distintos tamaños</h3>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-14.58.26.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-14.58.26.jpg" alt="Archivadores por detrás" width="500" height="336" class="aligncenter size-full wp-image-1512" /></a></p>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-15.10.50.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-15.10.50.jpg" alt="Archivadores" width="500" height="248" class="aligncenter size-full wp-image-1513" /></a></p>
+
+<p>No sólo se ve mejor sino que es mucho más fácil sacar o guardar lo que necesitas. Hay archivadores de distintos materiales, los más económicos son de cartón como los míos y si no consigues donde comprarlos, también los puedes hacer, hay muchos tutoriales y plantillas gratis. Además, no tienen que ser libros o revistas necesariamente, yo guardo otras cosas.<br/>
+<strong>Un juego de 5 archivadores de cartón cuesta 1.50 euros, así que gasté 3 euros en total</strong>.</p>
+
+<h3>5. Utiliza ventosas</h3>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-15.03.091.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-15.03.091.jpg" alt="Ventosas" width="500" height="375" class="aligncenter size-full wp-image-1517" /></a><br/>
+<a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-15.04.29.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-15.04.29.jpg" alt="Ventosas" width="375" height="500" class="aligncenter size-full wp-image-1516" /></a></p>
+
+<p>Las ventosas o chupones son súper útiles cuando no se pueden abrir huecos en la pared y lo que se quiere colgar no es muy pesado. En este caso, quise aprovechar para colgar mis textiles de cocina al lado de mi nevera (la cocina compartida es un desastre) y también para sostener el papel higiénico en el baño. Se me acaba de ocurrir que en la nevera también serviría un imán con gancho.<br/>
+<strong>Un juego de 8 ventosas me costó 1 euro.</strong></p>
+
+<h3>6. Aprovecha el espacio debajo de la cama</h3>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-15.01.201.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-15.01.201.jpg" alt="Debajo de la cama" width="500" height="375" class="aligncenter size-full wp-image-1520" /></a></p>
+
+<p>¿Qué hay debajo de tu cama? ¿Nada? ¿Sucio? ¿Tu gato? ¿Un desastre? Ahora que me mudé tuve que invertir en varios muebles pero aún no fue suficiente para acomodar todo así que decidí <strong>aprovechar el espacio debajo de la cama</strong>. Sólo necesitas cajas que no excedan los 12 cm de alto para camas bajas como la mía. Es preferible que sean de plástico porque si son de cartón puede ser una receta para el desastre si se derrama algún líquido cerca. Hay algunas cajas que tienen ruedas y es mucho mejor si quieres guardar algo que usarás con frecuencia.<br/>
+<strong>Las cajas para debajo de la cama que yo compré me costaron 9.99 euros.</strong></p>
+
+<h3>7. Reutiliza, organiza</h3>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-13.09.33.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/09/2013-09-13-13.09.33.jpg" alt="Reutilizar" width="500" height="529" class="aligncenter size-full wp-image-1521" /></a></p>
+
+<p>Confieso que soy MUY ordenada pero no siempre lo fui. Las gavetas en mi casa en Maracaibo son un desastre. Desde que vivo sola he <strong>reutilizado latas, cajas, envases para organizar las gavetas por dentro</strong>. También he invertido en unos juegos de cajas de cartón y tela para el clóset. Es mucho mejor que simplemente meter cualquier cosa o intentar que se mantengan en orden dentro de la gaveta. Muchas cosas tienen potencial como las latas de galletas, las cajas de zapatos, etc.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Brownies Súper Saludables]]></title>
+    <link href="http://blog.andreabravo.me/2013/06/brownies-super-saludables/"/>
+    <updated>2013-06-11T00:00:00+02:00</updated>
+    <id>http://blog.andreabravo.me/2013/06/brownies-super-saludables</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/06/Foto_CC_de_Andrea_Bravo_Balado.png"><img class="aligncenter size-full wp-image-1469" alt="Brownies saludables sin azúcar y sin gluten" src="http://blog.andreabravo.me/wp-content/uploads/2013/06/Foto_CC_de_Andrea_Bravo_Balado.png" width="500" height="375" /></a></p>
+
+<p>Estoy muy contenta con estos brownies porque es la primera vez que intento un postre sin seguir una receta, experimentando con las cantidades y sale algo que no sólo disfruto yo sino también otras personas. Como la mayoría de las recetas que he publicado, <strong>estos brownies no contienen azúcar*, ni harina de trigo, son libres de gluten, bajos en carbohidratos y buena fuente de grasas buenas y proteínas.</strong></p>
+
+<p>La semana pasada una amiga muy especial me regaló unas <strong>barras de chocolate de taza sin azúcar</strong> traídas de Colombia. Originalmente son para preparar chocolate de taza pero se me ocurrió hacer brownies con ellas. En este caso, utilicé 250 g de chocolate marca Luker, variedad Tradicional, pero pienso que se puede experimentar con otras barras de chocolate, lo más oscuro posible.</p>
+
+<p>Generalmente, los chocolates que podríamos llamar saludables contienen <strong>al menos 70% de sólidos de cacao</strong> y suelen contener menos azúcar que los que contienen menos cacao. ¿Cómo escoger el más saludable? En la mayoría de los países, los ingredientes de un producto están listados por &#8220;<a title="¿Por qué se deben mencionar los ingredientes en orden descendente de predominancia según el peso?" href="http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInformation/LabelingNutrition/ucm247926.htm#descend" target="_blank">orden descendente de predominancia según el peso</a>&#8220;, con lo cual el primer ingrediente está presente en mayor proporción que el último. En el caso del chocolate para estos brownies, debemos evitar consumir aquellos cuyo primer ingrediente sea azúcar.</p>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/06/Foto-CC-de-Andrea-Bravo-Balado.png"><img class="aligncenter size-full wp-image-1471" alt="Brownies súper saludables" src="http://blog.andreabravo.me/wp-content/uploads/2013/06/Foto-CC-de-Andrea-Bravo-Balado.png" width="500" height="375" /></a></p>
+
+<div class="blog-yumprint-recipe blog-yumprint-stat-focus   blog-yumprint-numbered-methods " yumprintrecipe="cNSD" itemscope itemtype="http://schema.org/Recipe">
+  <img class="blog-yumprint-google-image" src="http://blog.andreabravo.me/wp-content/uploads/2013/06/Foto_CC_de_Andrea_Bravo_Balado.png" style="display:block;position:absolute;left:-10000px;top:-10000px;" itemprop="image" /> <div class="blog-yumprint-photo-top" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2013/06/Foto_CC_de_Andrea_Bravo_Balado.png)">
+  </div>
+  
+  <div class="blog-yumprint-recipe-title" itemprop="name">
+    Brownies súper saludables
+  </div>
+  
+  <div class="blog-yumprint-recipe-published" itemprop="datePublished">
+    2013-10-26 14:54:02
+  </div>
+  
+  <img class="blog-yumprint-photo-top-large" src="http://blog.andreabravo.me/wp-content/uploads/2013/06/Foto_CC_de_Andrea_Bravo_Balado.png" /> <div class="blog-yumprint-recipe-summary" itemprop="description">
+    Deliciosos brownies paleo, bajos en carbohidratos
+  </div>
+  
+  <div class="blog-yumprint-spacer">
+  </div>
+  
+  <div class="blog-yumprint-info-bar">
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Preparación
+      </div>
+      
+      <div class="duration-blog-yumprint-infobox-section-data" itemprop="prepTime" datetime="PT10M">
+        10 min <span class="value-title" title="PT10M"></span>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Cocción
+      </div>
+      
+      <div class="duration-blog-yumprint-infobox-section-data" itemprop="cookTime" datetime="PT25M">
+        25 min <span class="value-title" title="PT25M"></span>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Listo en
+      </div>
+      
+      <div class="duration-blog-yumprint-infobox-section-data" itemprop="totalTime" datetime="PT40M">
+        40 min <span class="value-title" title="PT40M"></span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="blog-yumprint-recipe-contents">
+    <div class="blog-yumprint-photo-middle" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2013/06/Foto_CC_de_Andrea_Bravo_Balado.png)">
+    </div>
+    
+    <div class="blog-yumprint-info-box">
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Preparación
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="prepTime" dateTime="PT10M">
+          10 min <span class="value-title" title="PT10M"></span>
+        </div>
+      </div>
+      
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Cocción
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="cookTime" dateTime="PT25M">
+          25 min <span class="value-title" title="PT25M"></span>
+        </div>
+      </div>
+      
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Listo en
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="totalTime" datetime="PT40M">
+          40 min <span class="value-title" title="PT40M"></span>
+        </div>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-ingredient-section" yumprintsection="0">
+      <div class="blog-yumprint-subheader">
+        Ingredientes
+      </div>
+      
+      <ol class='blog-yumprint-ingredients'>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="0" itemprop="ingredients">
+          3 <strong>huevos</strong> - preferiblemente medianos y orgánicos
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="1" itemprop="ingredients">
+          100 g de <strong>eritritol+stevia**</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="2" itemprop="ingredients">
+          250 g de <strong>chocolate oscuro</strong> - al menos 70% contenido de cacao***
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="3" itemprop="ingredients">
+          3/4 taza de <strong>aceite de coco</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="4" itemprop="ingredients">
+          1/2 taza de <strong>leche de almendras</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="5" itemprop="ingredients">
+          150 g de <strong>harina de almendras</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="6" itemprop="ingredients">
+          50 g de <strong>harina de coco</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="7" itemprop="ingredients">
+          Esencia de <strong>vainilla</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="8" itemprop="ingredients">
+          Pizca de <strong>sal marina</strong>
+        </li>
+      </ol>
+    </div>
+    
+    <div class="blog-yumprint-method-section" yumprintsection="1">
+      <div class="blog-yumprint-subheader">
+        Preparación
+      </div>
+      
+      <ol class="blog-yumprint-methods" itemprop="recipeInstructions">
+        <li class="blog-yumprint-method-item" yumprintitem="0">
+          <strong>Derrite</strong> el chocolate en <a href="http://es.wikipedia.org/wiki/Ba%C3%B1o_Mar%C3%ADa">baño de María.</a>
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="1">
+          <strong>Derrite</strong> aceite de coco hasta medir los 3/4 de taza.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="2">
+          <strong>Mezcla</strong> el chocolate derretido con el aceite de coco, la leche de almendras y la esencia de vainilla.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="3">
+          <strong>Mezcla</strong> en otro recipiente los huevos con la stevia+eritritol.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="4">
+          <strong>Une</strong> ambas mezclas con ayuda de una espátula de repostería.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="5">
+          <strong>Mezcla</strong> en otro recipiente los ingredientes secos.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="6">
+          <strong>Agrega</strong> los ingredientes secos a la mezcla en forma envolvente.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="7">
+          <strong>Vierte</strong> en un molde o bandeja, preferiblemente con papel encerado.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="8">
+          <strong>Espolvorea</strong> una pizca de sal marina por encima de la mezcla.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="9">
+          <strong>Hornea</strong> a 180°C o 350°F por 25 minutos o hasta que al introducir un palillo de madera, éste salga seco.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="10">
+          Dejar <strong>enfriar</strong> para cortar.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="11">
+          ¡Listo!
+        </li>
+      </ol>
+    </div>
+    
+    <div class="blog-yumprint-note-section" yumprintsection="2">
+      <div class="blog-yumprint-subheader">
+        Notas
+      </div>
+      
+      <ol class='blog-yumprint-notes'>
+        <li class="blog-yumprint-note-item" yumprintitem="0">
+          Mientras más oscuro el chocolate, mejores son para comer con helado de vainilla.
+        </li>
+        <li class="blog-yumprint-note-item" yumprintitem="1">
+          * A menos que el chocolate que escojas ya tenga azúcar.
+        </li>
+        <li class="blog-yumprint-note-item" yumprintitem="2">
+          ** Como Truvia.
+        </li>
+        <li class="blog-yumprint-note-item" yumprintitem="3">
+          *** También he probado con 200g de <a href="http://www.vivani-chocolate.de/P_Dark_Chocolate_Coating.html">Chocolate Negro Vivani para postres</a> y quedan deliciosos.
+        </li>
+      </ol>
+    </div>
+    
+    <div class="author blog-yumprint-author" itemprop="author">
+      Por Andrea Bravo Balado
+    </div>
+    
+    <div class="blog-yumprint-adapted">
+      Adaptación de <a class="blog-yumprint-adapted-link" href="http://thestonesoup.com/blog/2012/05/can-dessert-be-guilt-free-paleo-brownies-recipe/"> Stonesoup </a>
+    </div>
+    
+    <div class="blog-yumprint-adapted-print">
+      Adaptación de Stonesoup
+    </div>
+    
+    <div class="blog-yumprint-recipe-source">
+      theCookInMe http://blog.andreabravo.me/
+    </div>
+  </div>
+</div>
+
+
+<p>¡Buen provecho!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[57 Días Con Vanessa]]></title>
+    <link href="http://blog.andreabravo.me/2013/05/57-dias-con-vanessa/"/>
+    <updated>2013-05-01T00:00:00+02:00</updated>
+    <id>http://blog.andreabravo.me/2013/05/57-dias-con-vanessa</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/wtftitacgs/8327540467/in/set-72157632386678527"><img src="http://farm9.staticflickr.com/8071/8327540467_6694468beb.jpg" alt="Muestra del trabajo fotográfico de Vanessa Gutiérrez" width="375" height="500" class="aligncenter size-full wp-image-1454" /></a></p>
+
+<p>Mi amiga <a href="http://titacgs.com.ar/" title="Vanessa Gutiérrez" target="_blank">Vanessa</a>, una talentosa ingeniera que se ha dedicado al arte electrónico, está por comenzar su primer proyecto fotográfico titulado <a href="http://blog.titacgs.com.ar/mi-primera-obra-fotografica-57-dias-conmigo/" title="Mi primera obra fotográfica: 57 días conmigo" target="_blank">&#8220;57 días conmigo&#8221;</a>.</p>
+
+<p>¿De qué se trata? Vanessa estará de viaje durante 57 días y uno de sus objetivos (además de visitarme, por fin) es <strong>capturar con su cámara esas peculiaridades de cada sitio que muchas veces pasamos por alto</strong>. Además, piensa llevar un diario y al final del viaje producirá lo que sin duda será un precioso foto-libro. Lo que podemos esperar es un libro muy sincero, muy auténtico y seguramente será el reflejo de un proceso de reflexión muy especial.</p>
+
+<p>¿Por qué les cuento esto? Porque para poder costear la producción de este proyecto, Vanessa ha iniciado una <strong>campaña de donaciones</strong>, a distintos niveles y con diversas recompensas. Vanessa lo explica así:</p>
+
+<blockquote><p>Para aquellos que aporten <strong>10 USD o más</strong> recibirán una postal desde algún lugar en mi viaje.<br/>
+Para aquellos que aporten <strong>30 USD o más</strong>, además de la postal, recibirán semanalmente un adelanto del material inédito.<br/>
+Finalmente para los que aporten <strong>más de 50 USD</strong>, además de recibir los beneficios anteriores, obtendrán una copia del fotolibro (incluye costos de envío a cualquier parte del mundo).<br/>
+Es importante que dejen sus datos y no realicen una donación anónima para poder concretar la entrega del material que les corresponde según su aporte. También es muy importante que me ayudes a difundir este proyecto, cuéntale a tus amigos, familiares, conocidos, ¡a todos!</p>
+
+<p><a href="http://www.pledgie.com/campaigns/19609"><img alt='Clic aquí para apoyar el proyecto de Vanessa: Mi primer obra fotográfica: 57 días conmigo and make a donation at www.pledgie.com !' src='http://www.pledgie.com/campaigns/19609.png?skin_name=chrome' border='0' /></a></p></blockquote>
+
+<p>Al final, <strong>Vanessa donará 10% de las ganancias a una causa</strong> que escogerán personalmente quienes hayan colaborado. ¿No es genial?</p>
+
+<p>Para colaborar, pueden hacerlo por el botón que ven más arriba o ir directamente al <a href="http://pledgie.com/campaigns/19609" title="Mi primer obra fotográfica: 57 días conmigo By vanecgs" target="_blank">sitio de la campaña en Pledgie</a>. Pueden conocer mejor el trabajo de Vanessa en su sitio de <a href="http://www.flickr.com/photos/wtftitacgs/" title="wtf.titacgs' photostream" target="_blank">flickr</a> : )</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Venezuela, 14 De Abril De 2013]]></title>
+    <link href="http://blog.andreabravo.me/2013/04/venezuela-14-de-abril-de-2013/"/>
+    <updated>2013-04-15T00:00:00+02:00</updated>
+    <id>http://blog.andreabravo.me/2013/04/venezuela-14-de-abril-de-2013</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/04/yosoyvenezolano.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/04/yosoyvenezolano.jpg" alt="#YoSoyVenezolano" width="403" height="403" class="aligncenter size-full wp-image-1438" /></a></p>
+
+<p>Aquí no hubo pueblo derrotado. La ventaja de aquel bando fue evidente y descarada. Uso del dinero público, de los <a href="http://monitoreociudadano.org/yomonitoreo/2013/04/65-horas-de-la-campana-de-maduro-en-vtv-2-11-abril-2013/" title="70 horas de campaña de Maduro en VTV (2-12 abril 2013, Monitoreo Ciudadano, informe)" target="_blank">medios de comunicación públicos</a> (y hasta los privados), de todos los recursos del Estado, la manipulación del pueblo, el <a href="http://www.madurodice.com/" title="Maduro dice" target="_blank">uso de la figura de Chávez hasta decir basta</a> y absolutamente todos los poderes parcializados de su lado, además de las innumerables <a href="http://transparencia.org.ve/informes-de-denuncias-recibidas-por-la-red-eleccion-ciudadana-este-14-a/" title="Informes de denuncias recibidas por la Red Elección Ciudadana este 14-A" target="_blank">denuncias de abusos</a> que hubo. En Venezuela hace rato se borró <strong>la línea que DEBE haber entre Estado y el partido de gobierno</strong> con la mayoría. Pero con este resultado, ¿ellos se pueden llamar mayoría? No. Estamos divididos a la mitad.<br/>
+Si se revisan los números, podemos darnos cuenta de muchas cosas, entre otras, de todo lo que nosotros crecimos y todo lo que ellos se han derrumbado. Ayer, <strong>por última vez ganó Chávez</strong>, no Maduro. Pero Chávez no está y su recuerdo no se sostendrá por mucho tiempo, como tampoco lo hará la situación del país. Ése será el detonante.<br/>
+También nos podemos dar cuenta de que <strong>Capriles sumó una cantidad de votos importante</strong> que el otro bando perdió. Realmente, dejó el pellejo y logró convencer a muchos que si bien creían en Chávez, saben que ya no está y se sumaron al cambio. Y esto a punta de esfuerzo y de palabra, ofreciendo una opción respaldada por su preparación y no a punta de amenazas, manipulación y el recuerdo del difunto.<br/>
+Aunque el resultado sea tan dudoso, no creo que cambie con las auditorías. <strong>Ellos no son más, simplemente tienen más poder en este momento</strong>, en la figura de los enchufados. A esos 235.000 hermanos que hacen la diferencia (y serán menos una vez se contabilicen los votos del exterior), Capriles los habría convencido en una semana más, o tal vez estarían de nuestro lado de haberse respetado las reglas del juego. ¿Cómo saber si el voto asistido en el municipio Mara en el Zulia, por ejemplo, es legítimo y no una manipulación a los indígenas? ¿Cómo saber que la misma estrategia ilegal del voto asistido no afectó la elección de empleados públicos?<br/>
+El periodista <a href="https://twitter.com/jurbina" title="Jesús Urbina" target="_blank">@jurbina</a> comenta en su cuenta de Twitter la posible correlación entre los números obtenidos por el bando oficialista y la cantidad de denuncias de abusos reportados. Los números relatan una historia que debe ser contada tomando en cuenta todo el contexto.<br/>
+<strong>El tiempo es fundamental en este juego</strong>. Hasta a Bolívar le tomó tiempo lograr la independencia. No podemos pretender cambiar en un mes lo que ellos han venido sembrando en 14 años, pero ya dimos el paso más importante, el más decisivo: el primero. Ya demostramos que somos muchos, que estamos unidos, que si nos organizamos podemos lograrlo. Que, a pesar de tenerlo todo en contra, ahí estaremos haciendo resistencia hasta que la verdad gane.<br/>
+Ahora más que nunca, debemos mantenernos en pie de lucha, <strong>fortaleciendo las redes que se construyeron</strong> para estas elecciones. ¿Se dieron cuenta de todo lo que podemos lograr si nos organizamos? El <strong>trabajo de los movilizadores fue fundamental</strong>, pero no podemos dejarlo allí. Así es como podemos lograr que el país avance, desde abajo, con la colaboración de cada quien.<br/>
+Se vienen tiempos oscuros, donde seguiremos teniendo todo en contra, incluso la única ventana mediática que quedaba pero tenemos la ventaja de vivir en estos tiempos. Que las redes sociales nos sirvan para denunciar la verdad, para organizarnos, para seguir luchando. Ya hemos visto cómo <a href="http://en.wikipedia.org/wiki/2011_Egyptian_revolution#Online_activism_and_the_role_of_social_media" title="Online activism and the role of social media" target="_blank">las redes le han devuelto el poder a la gente en otros países</a>, aún cuando quienes tienen el poder pretenden desconectarlos.<br/>
+<strong>Hoy más que nunca me siento venezolana, hoy más que nunca siento a mi Patria en el corazón</strong>. Hoy más que nunca estoy convencida de que Henrique Capriles es nuestro representante, pero no porque él sea “mejor” que los demás sino porque propone soluciones y ha probado, una y otra vez, querer servir a Venezuela.</p>
+
+<p>Ahora sueño con poder hacer Patria donde nací. Me toca hacer Patria en otro lado, <strong>mientras tanto</strong>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pan Sin Gluten Ni Azúcar, Inspirado en Los Principios De Primal Blueprint]]></title>
+    <link href="http://blog.andreabravo.me/2013/03/pan-sin-gluten-ni-azucar/"/>
+    <updated>2013-03-11T00:00:00+01:00</updated>
+    <id>http://blog.andreabravo.me/2013/03/pan-sin-gluten-ni-azucar</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/03/pan-sin-gluten-ni-azucar.png"><img class="aligncenter size-full wp-image-1399" alt="Pan sin glúten ni azúcar" src="http://blog.andreabravo.me/wp-content/uploads/2013/03/pan-sin-gluten-ni-azucar.png" width="600" height="450" /></a></p>
+
+<p>Desde que leí el libro <strong>Primal Blueprint de Mark Sisson</strong>, muchas de las cosas que pensaba que sabía de nutrición, han cambiado. He disminuido el consumo de <strong>cereales</strong> poco a poco. Preferí hacerlo paulatinamente por dos razones: primero, todavía me quedan algunos cereales (como avena) y detesto botar la comida y segundo para que el choque no fuera tan drástico y me llevara a rendirme.</p>
+
+<p>Como hay muchas corrientes dietéticas y cada una tiene sus recomendaciones y &#8220;prohibiciones&#8221;, no quise etiquetar esta receta como <strong>primal</strong> o <strong>paleo</strong>, sobre todo porque usé <a title="Mark Sisson on Truvia" href="http://www.marksdailyapple.com/the-truth-on-truvia/" target="_blank">Truvia</a>. Lo que sí puedo decir es que este pan es <strong>bajo en carbohidratos</strong>, <strong>libre de cereales y gluten</strong>, <strong>libre de azúcar</strong> y <strong>rico en proteínas y grasas</strong>.</p>
+
+<p>Tengo ya varias semanas sin comprar o comer pan, pero de vez en cuando sí que hace falta comerse un sándwich ¿o no?. Mi mamá me envió la receta de <a title="Pan Paleo de Ana Muñíz" href="http://megustaestarbien.com/2011/12/02/pan-paleo-paleo-pan-de-elana/" target="_blank">Pan Paleo de Ana Muñíz</a>, la cual me pareció fantástica, pero como siempre, me gusta ajustar las recetas a los ingredientes que tengo y que se ajustan más a mi enfoque específico, como sustituir la miel que tiene <a title="Índice glucémico en Wikipedia" href="http://es.wikipedia.org/wiki/%C3%8Dndice_gluc%C3%A9mico" target="_blank">índice glucémico moderado-alto</a>.</p>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/03/pan-sin-gluten-sin-azucar.png"><img class="aligncenter size-full wp-image-1391" alt="Pan sin glúten y sin azúcar" src="http://blog.andreabravo.me/wp-content/uploads/2013/03/pan-sin-gluten-sin-azucar.png" width="600" height="450" /></a></p>
+
+<div class="blog-yumprint-recipe blog-yumprint-stat-focus   blog-yumprint-numbered-methods " yumprintrecipe="cPWn" itemscope itemtype="http://schema.org/Recipe">
+  <img class="blog-yumprint-google-image" src="http://blog.andreabravo.me/wp-content/uploads/2013/03/pan-sin-gluten-ni-azucar.png" style="display:block;position:absolute;left:-10000px;top:-10000px;" itemprop="image" /> <div class="blog-yumprint-photo-top" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2013/03/pan-sin-gluten-ni-azucar.png)">
+  </div>
+  
+  <div class="blog-yumprint-recipe-title" itemprop="name">
+    Pan sin gluten ni azúcar, inspirado en los principios de Primal Blueprint
+  </div>
+  
+  <div class="blog-yumprint-recipe-published" itemprop="datePublished">
+    2013-10-28 05:33:37
+  </div>
+  
+  <img class="blog-yumprint-photo-top-large" src="http://blog.andreabravo.me/wp-content/uploads/2013/03/pan-sin-gluten-ni-azucar.png" /> <div class="blog-yumprint-recipe-summary" itemprop="description">
+    Pan paleo, sin gluten ni azúcar.
+  </div>
+  
+  <div class="blog-yumprint-spacer">
+  </div>
+  
+  <div class="blog-yumprint-info-bar">
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Preparación
+      </div>
+      
+      <div class="duration-blog-yumprint-infobox-section-data" itemprop="prepTime" datetime="PT15M">
+        15 min <span class="value-title" title="PT15M"></span>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Cocción
+      </div>
+      
+      <div class="duration-blog-yumprint-infobox-section-data" itemprop="cookTime" datetime="PT30M">
+        30 min <span class="value-title" title="PT30M"></span>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Listo en
+      </div>
+      
+      <div class="duration-blog-yumprint-infobox-section-data" itemprop="totalTime" datetime="PT45M">
+        45 min <span class="value-title" title="PT45M"></span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="blog-yumprint-recipe-contents">
+    <div class="blog-yumprint-photo-middle" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2013/03/pan-sin-gluten-ni-azucar.png)">
+    </div>
+    
+    <div class="blog-yumprint-info-box">
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Preparación
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="prepTime" dateTime="PT15M">
+          15 min <span class="value-title" title="PT15M"></span>
+        </div>
+      </div>
+      
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Cocción
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="cookTime" dateTime="PT30M">
+          30 min <span class="value-title" title="PT30M"></span>
+        </div>
+      </div>
+      
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Listo en
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="totalTime" datetime="PT45M">
+          45 min <span class="value-title" title="PT45M"></span>
+        </div>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-ingredient-section" yumprintsection="0">
+      <div class="blog-yumprint-subheader">
+        Ingredientes
+      </div>
+      
+      <ol class='blog-yumprint-ingredients'>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="0" itemprop="ingredients">
+          <del datetime="2013-04-08T19:30:15+00:00">1 1/2</del> 2 tazas de <strong>harina de almendras.</strong> **
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="1" itemprop="ingredients">
+          2 cucharadas de <strong>harina de coco.</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="2" itemprop="ingredients">
+          1/2 taza de <strong>linaza rubia</strong> (sabe mejor que la regular).
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="3" itemprop="ingredients">
+          1/4 cucharadita de <strong>sal marina.</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="4" itemprop="ingredients">
+          1 1/2 cucharaditas de <strong>bicarbonato de sodio.</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="5" itemprop="ingredients">
+          7 gramos (2 sobres) de <strong>Truvia/Stevia.</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="6" itemprop="ingredients">
+          5 <strong>huevos</strong> (preferiblemente medianos y orgánicos).
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="7" itemprop="ingredients">
+          1/4 taza de <strong>aceite de coco.</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="8" itemprop="ingredients">
+          1 cucharada de jugo/zumo de <strong>limón.</strong> *
+        </li>
+      </ol>
+    </div>
+    
+    <div class="blog-yumprint-method-section" yumprintsection="1">
+      <div class="blog-yumprint-subheader">
+        Preparación
+      </div>
+      
+      <ol class="blog-yumprint-methods" itemprop="recipeInstructions">
+        <li class="blog-yumprint-method-item" yumprintitem="0">
+          <strong>Mezcla</strong> en un bol todos los ingredientes secos: harina de almendras y coco, linaza, sal, truvia y bicarbonato.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="1">
+          <strong>Separa</strong> las claras de las yemas en otro bol. Esto es para darle más aire a las claras y ayudar al bicarbonato a que el pan crezca, dado que no contamos con harina para ello.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="2">
+          <strong>Bate</strong> con una licuadora de mano o similar, con el bol ligeramente inclinado, las claras. Luego incorpora las yemas y bate un poco más.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="3">
+          <strong>Derrite</strong> el aceite de coco y mídelo. Se puede hacer en el microondas o en baño María. ¿Por qué no antes? Porque el aceite de coco se solidifica cuando se enfría.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="4">
+          <strong>Agrega</strong> el resto de los ingredientes líquidos a la mezcla de huevos: aceite de coco y jugo de limón.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="5">
+          <strong>Incorpora</strong> los ingredientes secos poco a poco, sin dejar de batir.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="6">
+          <strong>Deja</strong> reposar la mezcla por unos 15-30 minutos. Como explica Ana, la linaza es hidrosoluble y hay que darle tiempo para que se hidrate.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="7">
+          <strong>Vierte</strong> en un molde con la forma deseada.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="8">
+          <strong>Decora</strong> con linaza, semillas de chía, piñones, semillas de sésamo&#8230; lo que quieras.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="9">
+          <strong>Hornea</strong> a 180°C por 30 minutos o hasta que al pinchar con palito de madera en el centro, salga seco
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="10">
+          <strong>Desmolda</strong> y deja enfriar en rejilla.
+        </li>
+      </ol>
+    </div>
+    
+    <div class="blog-yumprint-note-section" yumprintsection="2">
+      <div class="blog-yumprint-subheader">
+        Notas
+      </div>
+      
+      <ol class='blog-yumprint-notes'>
+        <li class="blog-yumprint-note-item" yumprintitem="0">
+          * En la receta original utilizan vinagre de manzana en la misma proporción. Yo no tenía en casa pero el bicarbonato necesita un ácido para reaccionar, así que usé limón.
+        </li>
+        <li class="blog-yumprint-note-item" yumprintitem="1">
+          ** Cuando probé hacer el doble de la receta, en el centro queda una especie de túnel crudo. La receta original fue enmendada y utiliza más harina de almendras para evitar esto.
+        </li>
+      </ol>
+    </div>
+    
+    <div class="author blog-yumprint-author" itemprop="author">
+      Por Andrea Bravo Balado
+    </div>
+    
+    <div class="blog-yumprint-adapted">
+      Adaptación de <a class="blog-yumprint-adapted-link" href="http://megustaestarbien.com/2011/12/02/pan-paleo-paleo-pan-de-elana/"> Ana Muñíz </a>
+    </div>
+    
+    <div class="blog-yumprint-adapted-print">
+      Adaptación de Ana Muñíz
+    </div>
+    
+    <div class="blog-yumprint-recipe-source">
+      theCookInMe http://blog.andreabravo.me/
+    </div>
+  </div>
+</div>
+
+
+<p>A mi me ha gustado mucho este pan, tiene buena textura. Para la próxima vez, buscaré un molde mejor y doblaré la receta para que quede más como <strong>pan de molde</strong>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Aaand, We&#8217;re Back!]]></title>
+    <link href="http://blog.andreabravo.me/2013/02/aaand-were-back/"/>
+    <updated>2013-02-02T00:00:00+01:00</updated>
+    <id>http://blog.andreabravo.me/2013/02/aaand-were-back</id>
+    <content type="html"><![CDATA[<p><a href="http://www.etsy.com/listing/103511809/keep-calm-and-blog-on-large-13x19"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/02/blogon-300x300.jpg" alt="Keep calm and blog on " width="300" height="300" class="aligncenter size-medium wp-image-1379" /></a></p>
+
+<p>Luego de algunos problemas técnicos y cambio de hosting, mi blog está de vuelta. Debo confesar que a pesar de que no escribo tanto, me tenía ansiosa no tener mi espacio disponible.</p>
+
+<p>Así que ¡ya está! Este año espero escribir aunque sea un poquito más que el anterior :)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Reeddit, Cliente Minimalista Para Reddit]]></title>
+    <link href="http://blog.andreabravo.me/2012/11/reeddit-cliente-minimalista-para-reddit/"/>
+    <updated>2012-11-23T00:00:00+01:00</updated>
+    <id>http://blog.andreabravo.me/2012/11/reeddit-cliente-minimalista-para-reddit</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/11/Reeddit.png"><img src="http://blog.andreabravo.me/wp-content/uploads/2012/11/Reeddit.png" alt="Reeddit, lector minimalista de Reddit" width="267" height="72" class="aligncenter size-full wp-image-1368" /></a></p>
+
+<p><a href="http://es.wikipedia.org/wiki/Reddit" title="reddit en Wikipedia" target="_blank">reddit</a> es un sitio donde los usuarios colaboran con enlaces a contenidos y donde éstos reciben comentarios y votos. Su ranking varía según su calidad, determinada por los usuarios a través de esos votos. Se ha convertido en una especie de <strong>página de inicio de Internet</strong>. Si entras al sitio te darás cuenta de que la interfaz es tan simple que tiende a ser un poco fea (sobre todo por los colores, muy 1998), por lo que cada vez se ven más clientes con distintas características.</p>
+
+<p><a href="https://twitter.com/berbaquero" title="Ber Baquero Stand en Twitter" target="_blank">Ber Baquero Stand</a> ha desarrollado esta aplicación en su tiempo libre, denominada Reeddit. <a href="http://berbaquero.github.com/reeddit/about/" title="About Reeddit" target="_blank">Reeddit</a>, es un cliente de sólo lectura, lo cual le otorga mucha <strong>simplicidad</strong>. Es ideal para consumir el contenido y los comentarios, simplemente leer como quien lee las noticias por la mañana. Sobre todo para quienes no conocíamos reddit anteriormente, Reeddit es una buena puerta de entrada.</p>
+
+<p>Además, la aplicación se vale del <strong>diseño web adaptativo</strong> para responder adecuadamente a los distintos tamaños de pantalla. Así, es posible utilizar la app desde casi cualquier dispositivo, tanto de escritorio como tabletas y móviles.</p>
+
+<p>En todos los casos, a la izquierda se muestra una lista de hilos (que en reddit se conocen como <em>subreddits</em>). Esta lista se puede modificar, eliminando los canales que no nos interesen y agregando los que sí. La aplicación guarda localmente todas estas preferencias <strong>sin necesidad de crear un usuario o iniciar sesión</strong>, así que para mi es un <em>plus</em>.</p>
+
+<p>Una característica interesante es la de <strong>agrupar hasta 3 <em>subreddits</em> en canales</strong> y así leer lo que más nos interesa en un solo lugar. Por ejemplo, digamos que te gusta estar al día con la tecnología, puedes agrupar los <em>subreddits</em> de Apple, Google, iOS y Android o si eres fiel seguidor de series, digamos que agrupas Mad Men, Breaking Bad y Community. También es posible agrupar sólo dos hilos.</p>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/11/Reeddit_2columns.png"><img src="http://blog.andreabravo.me/wp-content/uploads/2012/11/Reeddit_2columns-300x258.png" alt="Reeddit, vista de 2 columnas" width="300" height="258" class="aligncenter size-medium wp-image-1369" /></a></p>
+
+<p>Para utilizar la aplicación, puedes entrar directamente <a href="http://berbaquero.github.com/reeddit/" title="Reeddit en Gihub" target="_blank">aquí</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Torta Y Ponquecitos De Limón Bajos en Carbohidratos]]></title>
+    <link href="http://blog.andreabravo.me/2012/11/torta-y-ponquecitos-de-limon-bajos-en-carbohidratos/"/>
+    <updated>2012-11-22T00:00:00+01:00</updated>
+    <id>http://blog.andreabravo.me/2012/11/torta-y-ponquecitos-de-limon-bajos-en-carbohidratos</id>
+    <content type="html"><![CDATA[<div id="attachment_1366" style="width: 610px" class="wp-caption aligncenter">
+  <a href="http://blog.andreabravo.me/wp-content/uploads/2012/11/Torta-de-limon-baja-en-carbs1.jpg"><img class="size-full wp-image-1366" alt="Torta de limón baja en carbohidratos" src="http://blog.andreabravo.me/wp-content/uploads/2012/11/Torta-de-limon-baja-en-carbs1.jpg" width="600" height="600" /></a><p class="wp-caption-text">
+    Torta de limón baja en carbohidratos
+  </p>
+</div>
+
+
+<p>¡Hola! Me encantan los dulces, ya lo he dicho antes. De mis dulces favoritos, las tortas y ponquecitos/magdalenas se llevan el premio&#8230; pero ya sabemos que no son tan buenos para nuestro cuerpo, así que he estado experimentando esta receta hasta que por fin encontré la combinación ideal :D</p>
+
+<p>Esta receta sirve tanto para una <strong>torta</strong> pequeña como para <strong>ponquecitos/magdalenas</strong>. A mi me gusta más la segunda opción porque es más fácil controlar las <strong>porciones</strong>. En ambos casos, esta mezcla resulta en 8 porciones de <strong>168 calorías</strong> cada una: 13 gramos de grasas (la mayor parte grasas <strong>mono-insaturadas</strong> y <strong>poli-insaturadas</strong> provenientes de las almendras), 9 gramos de proteínas y apenas 5 gramos de carbohidratos, de los cuales 2 son de fibra.</p>
+
+<div class="blog-yumprint-recipe blog-yumprint-stat-focus   blog-yumprint-numbered-methods " yumprintrecipe="cPVT" itemscope itemtype="http://schema.org/Recipe">
+  <img class="blog-yumprint-google-image" src="http://blog.andreabravo.me/wp-content/uploads/2012/11/Torta-de-limon-baja-en-carbs1.jpg" style="display:block;position:absolute;left:-10000px;top:-10000px;" itemprop="image" /> <div class="blog-yumprint-photo-top" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2012/11/Torta-de-limon-baja-en-carbs1.jpg)">
+  </div>
+  
+  <div class="blog-yumprint-recipe-title" itemprop="name">
+    Torta y ponquecitos de limón bajos en carbohidratos
+  </div>
+  
+  <div class="blog-yumprint-recipe-published" itemprop="datePublished">
+    2013-10-28 05:22:40
+  </div>
+  
+  <img class="blog-yumprint-photo-top-large" src="http://blog.andreabravo.me/wp-content/uploads/2012/11/Torta-de-limon-baja-en-carbs1.jpg" /> <div class="blog-yumprint-serves">
+    Porciones: 8
+  </div>
+  
+  <div class="blog-yumprint-recipe-summary" itemprop="description">
+    Esponjosos ponquecitos/magdalenas bajos en carbohidratos
+  </div>
+  
+  <div class="blog-yumprint-spacer">
+  </div>
+  
+  <div class="blog-yumprint-info-bar">
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Preparación
+      </div>
+      
+      <div class="duration-blog-yumprint-infobox-section-data" itemprop="prepTime" datetime="PT10M">
+        10 min <span class="value-title" title="PT10M"></span>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Cocción
+      </div>
+      
+      <div class="duration-blog-yumprint-infobox-section-data" itemprop="cookTime" datetime="PT35M">
+        35 min <span class="value-title" title="PT35M"></span>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Listo en
+      </div>
+      
+      <div class="duration-blog-yumprint-infobox-section-data" itemprop="totalTime" datetime="PT45M">
+        45 min <span class="value-title" title="PT45M"></span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="blog-yumprint-recipe-contents">
+    <div class="blog-yumprint-photo-middle" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2012/11/Torta-de-limon-baja-en-carbs1.jpg)">
+    </div>
+    
+    <div class="blog-yumprint-info-box">
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Preparación
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="prepTime" dateTime="PT10M">
+          10 min <span class="value-title" title="PT10M"></span>
+        </div>
+      </div>
+      
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Cocción
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="cookTime" dateTime="PT35M">
+          35 min <span class="value-title" title="PT35M"></span>
+        </div>
+      </div>
+      
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Listo en
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="totalTime" datetime="PT45M">
+          45 min <span class="value-title" title="PT45M"></span>
+        </div>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-ingredient-section" yumprintsection="0">
+      <div class="blog-yumprint-subheader">
+        Ingredientes
+      </div>
+      
+      <ol class='blog-yumprint-ingredients'>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="0" itemprop="ingredients">
+          3 <strong>huevos</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="1" itemprop="ingredients">
+          1/2 taza de <strong>stevia*</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="2" itemprop="ingredients">
+          Jugo/zumo de 2 <strong>limones</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="3" itemprop="ingredients">
+          2 cucharadas de <strong>aceite</strong> (yo usé de maní)
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="4" itemprop="ingredients">
+          1 medida de proteína de <strong>suero de leche (whey protein</strong>) de vainilla.
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="5" itemprop="ingredients">
+          1 taza de <strong>harina de almendras</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="6" itemprop="ingredients">
+          1 cucharadita de <strong>polvo de hornear</strong> + 1/2 cucharadita de <strong>bicarbonato de sodio</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="7" itemprop="ingredients">
+          Opcional: 1 cucharada de <strong>semillas de chía</strong> y <strong>vainilla</strong> al gusto
+        </li>
+      </ol>
+    </div>
+    
+    <div class="blog-yumprint-method-section" yumprintsection="1">
+      <div class="blog-yumprint-subheader">
+        Preparación
+      </div>
+      
+      <ol class="blog-yumprint-methods" itemprop="recipeInstructions">
+        <li class="blog-yumprint-method-item" yumprintitem="0">
+          <strong>Bate</strong> ligeramente los huevos en un bol.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="1">
+          <strong>Agrega</strong>, la stevia poco a poco hasta que se mezcle bien con los huevos.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="2">
+          <strong>Agrega</strong> el jugo/zumo de limón, la proteína de suero de leche y el aceite y revuelve hasta que esté bastante homogéneo.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="3">
+          <strong>Agrega y mezcla</strong> poco a poco y en forma envolvente los ingredientes secos: harina de almendras, polvo de hornear, bicarbonato de sodio y semillas de chía.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="4">
+          <strong>Vierte</strong> la mezcla en el molde donde se va a hornear, bien sea como torta o como ponquecitos/magdalenas. Si usas moldes de silicón es mucho mejor
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="5">
+          <strong>Hornea</strong> por aproximadamente <strong>35 minutos a 180°C o 350°F</strong> o hasta que los ponquecitos se vean dorados por encima.
+        </li>
+      </ol>
+    </div>
+    
+    <div class="author blog-yumprint-author" itemprop="author">
+      Por Andrea Bravo Balado
+    </div>
+    
+    <div class="blog-yumprint-recipe-source">
+      theCookInMe http://blog.andreabravo.me/
+    </div>
+  </div>
+</div>
+
+
+<p>Perfectos para merendar ¿o no? ¡Buen provecho!</p>
+
+<p style="font-size: 11px;">
+  <em>* Cuando me refiero a stevia y sus medidas, estoy hablando de las mezclas comerciales de stevia + maltodextrina como agente de carga, como <strong><del datetime="2013-02-01T13:23:45+00:00">Truvia</del></strong>, <strong>Purevia</strong>, etc.</em><br /> <strong>Truvia</strong> no contiene maltodextrina sino un polialcohol llamando <a title="Eritritol en Wikipedia" href="http://es.wikipedia.org/wiki/Eritritol" target="_blank">eritritol</a>. La <a title="Maltodextrina en Wikipedia" href="http://es.wikipedia.org/wiki/Maltodextrina" target="_blank">maltodextrina</a> es un carbohidrato proveniente del maíz con un índice glucémico altísimo, por lo que no es recomendable.
+</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Topoku]]></title>
+    <link href="http://blog.andreabravo.me/2012/11/topoku/"/>
+    <updated>2012-11-07T00:00:00+01:00</updated>
+    <id>http://blog.andreabravo.me/2012/11/topoku</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/11/Screen-Shot-2012-11-07-at-18.05.021.png"><img src="http://blog.andreabravo.me/wp-content/uploads/2012/11/Screen-Shot-2012-11-07-at-18.05.021.png" alt="" title="Topoku" width="600" height="233" class="aligncenter size-full wp-image-1294" /></a></p>
+
+<p>El 5 de noviembre fue el lanzamiento de un proyecto gratuito de dos venezolanos, <a href="http://twitter.com/fixr" title="Freddy Peña en Twitter" target="_blank">@fixr</a> y <a href="http://twitter.com/pentor" title="Fran Peña en Twitter" target="_blank">@pentor</a>, quienes de su bolsillo han desarrollado esta idea divertida.</p>
+
+<p><a href="http://www.topoku.com/" title="Topoku" target="_blank">Topoku</a> es una &#8220;batalla de ideas&#8221; sobre temas <strong>geeks</strong>. Como ellos mismos se describen, ¡es el bar geek que necesitábamos en la web! Las discusiones son muy variadas y próximamente se podrán sugerir temas. Por ahora, puedes votar para que la discusión que te interese llegue a la página principal.</p>
+
+<p>Algunas de las &#8220;batallas&#8221; que se pueden encontrar son relacionadas con tecnología, como por ejemplo, <strong>Windows 8 vs. OSX Mountain Lion</strong>, o la pregunta del millón: <strong>Android vs. iOS</strong>. También hay temas relacionados con el mundo de los cómics, como <strong>Bruce Wayne vs. Tony Stark</strong> o de la música: <strong>Metallica vs. Megadeth</strong>. También hay temas que son medio locos como <strong>Zombies vs. Tesla</strong>. Cada comentario suma puntos para tu &#8220;equipo&#8221; y puedes leer lo que los demás piensan sobre ese tema. Si algún tema te da igual, también puedes expresarlo con la opción <em>meh</em>.</p>
+
+<p>Me gusta mucho la interfaz al estilo <strong>8-bit</strong> porque además te hace sentir como en un juego de verdad (para los viejitos como yo) : )</p>
+
+<p>Los invito a que formen parte de <strong>Topoku</strong> y también pueden seguirlos a través de <a href="https://twitter.com/topokus" title="Topoku Overlord en Twitter" target="_blank">@topokus</a>.</p>
+
+<p>Did you Topoku&#8217;d today already? The geek in me loves this!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[26 Años]]></title>
+    <link href="http://blog.andreabravo.me/2012/11/26-anos/"/>
+    <updated>2012-11-06T00:00:00+01:00</updated>
+    <id>http://blog.andreabravo.me/2012/11/26-anos</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/11/26.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2012/11/26.jpg" alt="Podré tener 26 años pero aún disfruto de las burbujas" title="26" width="612" height="612" class="aligncenter size-full wp-image-1202" /></a></p>
+
+<p>El sábado <strong>3 de noviembre</strong> cumplí 26 años. Es el tercer cumpleaños que paso en Holanda, lejos de mi familia y mis amigos de toda la vida, pero en el tiempo que tengo aquí, he aprendido que hay que celebrar como se pueda.</p>
+
+<p>Este año, pasé la mayor parte del día hablando por Skype con el amor de mi vida <3 y en la noche fui a la <a href="http://amsterdamdo.com/museumnacht-la-noche-de-los-museos-en-amsterdam" title="Museumnacht, Noche de los museos en Amsterdam" target="_blank">noche de los museos en Amsterdam</a> con un amigo de la universidad. Mis amigas más cercanas en Holanda no estaban en la ciudad o no se animaron a ir, pero lo cierto es que me he dado cuenta de que me gustan más los grupos pequeños.</p>
+
+<p>Visitamos la <a href="http://amsterdamdo.com/museos/oude-kerk-la-iglesia-antigua" title="Oude Kerk" target="_blank">Oude Kerk</a>, aunque la exhibición no era lo que esperábamos; el <a href="http://amsterdamdo.com/museos/nemo-museo-de-ciencias" title="NEMO, Museo de Ciencias" target="_blank">Museo de Ciencias, NEMO</a>, el cual AMÉ; cenamos y luego visitamos el <a href="http://amsterdamdo.com/museos/museo-hermitage-amsterdam" title="Museo Hermitage Amsterdam" target="_blank">Museo Hermitage</a> y cerramos con el <a href="http://amsterdamdo.com/museos/rembrandthuis-la-casa-de-rembrandt" title="Rembrandthuis, Museo de la Casa de Rembrandt" target="_blank">Museo de la Casa de Rembrandt</a>. Bueno, después fuimos a un pub a brindar : )</p>
+
+<p>Este año descubrí muchas cosas sobre mi, como que me encanta escribir, disfruto muchísimo cocinar y experimentar y compartir esos inventos, me gusta tomar fotos aunque no me llama la atención hacerlo más profesional y puedo pasar horas y horas hablando (bueno, eso no es nuevo). También me he dado cuenta de que me cuesta mucho comenzar a hacer algo cuyos resultados son inciertos, me cuesta asumir riesgos&#8230; pero trabajaré en eso : )</p>
+
+<p>Y así se fueron los temidos 25, que al final fueron indefensos y no me siento vieja, al contrario, sé que lo mejor está por venir&#8230;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Paletas De Helado Saludables]]></title>
+    <link href="http://blog.andreabravo.me/2012/10/paletas-de-helado-saludables/"/>
+    <updated>2012-10-31T00:00:00+01:00</updated>
+    <id>http://blog.andreabravo.me/2012/10/paletas-de-helado-saludables</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/10/Paleta2.jpg"><img class="aligncenter size-full wp-image-1184" title="Paleta de helado con fresas" alt="Paleta de helado con fresas" src="http://blog.andreabravo.me/wp-content/uploads/2012/10/Paleta2.jpg" width="500" height="500" /></a></p>
+
+<p>Si yo digo helado&#8230; ¿en qué piensas? Yo solía pensar que jamás podría formar parte de mi alimentación regular si quiero seguir en la vía correcta&#8230; Pero me equivoqué, afortunadamente.</p>
+
+<p>Los moldes para paletas los compré en <strong>IKEA</strong> y la verdad es que al ver una receta, es fácil pensar en muchas otras.&nbsp;</p>
+
+<div class="blog-yumprint-recipe blog-yumprint-stat-focus   blog-yumprint-numbered-methods " yumprintrecipe="cPU9" itemscope itemtype="http://schema.org/Recipe">
+  <img class="blog-yumprint-google-image" src="http://blog.andreabravo.me/wp-content/uploads/2012/10/Paleta2.jpg" style="display:block;position:absolute;left:-10000px;top:-10000px;" itemprop="image" /> <div class="blog-yumprint-photo-top" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2012/10/Paleta2.jpg)">
+  </div>
+  
+  <div class="blog-yumprint-recipe-title" itemprop="name">
+    Paletas de helado saludables
+  </div>
+  
+  <div class="blog-yumprint-recipe-published" itemprop="datePublished">
+    2013-10-28 04:48:38
+  </div>
+  
+  <img class="blog-yumprint-photo-top-large" src="http://blog.andreabravo.me/wp-content/uploads/2012/10/Paleta2.jpg" /> <div class="blog-yumprint-serves">
+    Porciones: 6
+  </div>
+  
+  <div class="blog-yumprint-recipe-summary" itemprop="description">
+    Paletas de helado sin azúcares añadidos, hechas en casa
+  </div>
+  
+  <div class="blog-yumprint-spacer">
+  </div>
+  
+  <div class="blog-yumprint-recipe-contents">
+    <div class="blog-yumprint-photo-middle" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2012/10/Paleta2.jpg)">
+    </div>
+    
+    <div class="blog-yumprint-ingredient-section" yumprintsection="0">
+      <div class="blog-yumprint-subheader">
+        Ingredientes
+      </div>
+      
+      <ol class='blog-yumprint-ingredients'>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="0" itemprop="ingredients">
+          1 taza de <strong>yogurt griego</strong>*
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="1" itemprop="ingredients">
+          <strong>4 sobres/cucharadas de stevia.</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="2" itemprop="ingredients">
+          <strong>1 medida de proteína de suero de leche</strong> (whey protein) de vainilla.
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="3" itemprop="ingredients">
+          Frutas/sabores de tu preferencia (ver abajo).
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="4" itemprop="ingredients">
+          1 taza de agua fría (sólo si la mezcla está muy espesa).
+        </li>
+      </ol>
+    </div>
+    
+    <div class="blog-yumprint-method-section" yumprintsection="1">
+      <div class="blog-yumprint-subheader">
+        Preparación
+      </div>
+      
+      <ol class="blog-yumprint-methods" itemprop="recipeInstructions">
+        <li class="blog-yumprint-method-item" yumprintitem="0">
+          <strong>Mezclar</strong> todos los ingredientes en una licuadora.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="1">
+          <strong>Verter</strong> en los moldes.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="2">
+          <strong>Congelar</strong> por al menos 2 horas.
+        </li>
+      </ol>
+    </div>
+    
+    <div class="blog-yumprint-note-section" yumprintsection="2">
+      <div class="blog-yumprint-subheader">
+        Notas
+      </div>
+      
+      <ol class='blog-yumprint-notes'>
+        <li class="blog-yumprint-note-item" yumprintitem="0">
+          * Aquí en Holanda, donde la industria de lácteos es inmensa, venden un producto que se conoce como <em>kwark</em>, el cual es una especie de yogurt hecho a base de suero de leche, con lo cual es alto en proteínas y bajo en grasas, así que es una alternativa más económica al yogurt griego.
+        </li>
+      </ol>
+    </div>
+    
+    <div class="author blog-yumprint-author" itemprop="author">
+      Por Andrea Bravo Balado
+    </div>
+    
+    <div class="blog-yumprint-recipe-source">
+      theCookInMe http://blog.andreabravo.me/
+    </div>
+  </div>
+</div>
+
+
+<h3>#1 Helado de yogurt sabor a limón</h3>
+
+<p>No sé si ya lo he dicho por aquí pero el <strong>pie de limón</strong> es uno de mis postres favoritos en el mundo. Aunque estos helados no lo son, el sabor del yogurt con el limón se acerca bastante. A la base, agrégale el jugo de <strong>2 limones grandes (o 3-4 pequeños)</strong> y mezcla bien. Cada paleta tiene unas 47 calorías*</p>
+
+<h3>#2 Helado de yogurt con fresas y semillas de chía</h3>
+
+<p>Para ésta, me inspiré en las freshquitas de <a title="Freshco en Twitter" href="https://twitter.com/freshco" target="_blank">@freshco</a>. Licúa <strong>10 fresas</strong> con el <strong>jugo de 2 limones</strong> y agrégalo a la mezcla base. Añade <strong>1 cucharada de semillas de chía</strong>. Cada paleta tiene unas 63 calorías*</p>
+
+<h3>#3 Helado de yogurt con chocolate</h3>
+
+<p>A la base, agrégale <strong>2 cucharadas de cacao en polvo</strong>. Como es muy amargo, es válido agregar un poquito más de edulcorante. Como esta mezcla no lleva jugo de limón, es necesario agregar agua. Cada paleta tiene unas 50 calorías*</p>
+
+<h3>#4 Helado de yogurt con manzana y canela / con manzana y mantequilla de maní</h3>
+
+<p>Esta receta <del datetime="2012-11-01T16:53:16+00:00">no la he probado todavía</del> pero planeo agregar <strong><del datetime="2012-11-01T16:53:16+00:00">&frac14;</del> &frac12; taza de <a title="Mermelada de frutos rojos" href="http://blog.andreabravo.me/2012/10/mermelada-de-frutos-rojos/" target="_blank">mermelada de manzanas</a></strong> hecha en casa y una mitad de la mezcla sólo <strong>canela</strong> y a la otra mitad, <strong>2 cucharadas de <a title="Receta de mantequilla de maní saludable" href="http://blog.andreabravo.me/2012/08/receta-de-mantequilla-de-mani-saludable/" target="_blank">mantequilla de maní</a></strong></p>
+
+<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/10/Paletas1.jpg"><img class="aligncenter size-full wp-image-1186" title="Paletas de helado de limón y chocolate" alt="Paletas de helado de limón y chocolate" src="http://blog.andreabravo.me/wp-content/uploads/2012/10/Paletas1.jpg" width="500" height="250" /></a></p>
+
+<p>Iré agregando aquí cuando se me vayan ocurriendo más variantes : ) Enjoy!</p>
+
+<p><em>* El cálculo de calorías lo hice con ayuda de <a title="myfitnesspal" href="http://www.myfitnesspal.com/" target="_blank">myfitnesspal.com</a> y varía dependiendo de la marca de proteína, el yogurt y el edulcorante que se utilicen.</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mermelada De Frutos Rojos]]></title>
+    <link href="http://blog.andreabravo.me/2012/10/mermelada-de-frutos-rojos/"/>
+    <updated>2012-10-31T00:00:00+01:00</updated>
+    <id>http://blog.andreabravo.me/2012/10/mermelada-de-frutos-rojos</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/10/IMG_4862.jpg"><img class="aligncenter size-full wp-image-1166" title="Mermelada de frutos rojos" alt="Mermelada de frutos rojos" src="http://blog.andreabravo.me/wp-content/uploads/2012/10/IMG_4862.jpg" width="500" height="500" /></a></p>
+
+<p>Para mi, hacer mermelada era como magia. No tenía ni idea de cómo se hacía. En vista de que no es TAN fácil (o barato) conseguir productos sin azúcar añadida en Holanda, decidí aprender a hacerla yo misma.</p>
+
+<p>Recientemente descubrí que <strong>AMO las frambuesas</strong>, así que es la fruta elegida para esta receta, junto con <strong>fresas</strong>. Básicamente <strong>el procedimiento es el mismo para cualquier fruta</strong>.</p>
+
+<p>Hay que tener cuidado con las cantidades porque he visto recetas donde recomiendan utilizar 1 kg de frutas y resulta en una cantidad de mermelada exagerada para el tiempo que dura en la nevera, sobre todo si es para una o dos personas.</p>
+
+<div class="blog-yumprint-recipe blog-yumprint-stat-focus   blog-yumprint-numbered-methods " yumprintrecipe="cPUU" itemscope itemtype="http://schema.org/Recipe">
+  <img class="blog-yumprint-google-image" src="http://blog.andreabravo.me/wp-content/uploads/2012/10/IMG_4862.jpg" style="display:block;position:absolute;left:-10000px;top:-10000px;" itemprop="image" /> <div class="blog-yumprint-photo-top" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2012/10/IMG_4862.jpg)">
+  </div>
+  
+  <div class="blog-yumprint-recipe-title" itemprop="name">
+    Mermelada de frutos rojos
+  </div>
+  
+  <div class="blog-yumprint-recipe-published" itemprop="datePublished">
+    2013-10-28 04:42:20
+  </div>
+  
+  <img class="blog-yumprint-photo-top-large" src="http://blog.andreabravo.me/wp-content/uploads/2012/10/IMG_4862.jpg" /> <div class="blog-yumprint-recipe-summary" itemprop="description">
+    Mermelada de frutas sin azúcar añadida
+  </div>
+  
+  <div class="blog-yumprint-spacer">
+  </div>
+  
+  <div class="blog-yumprint-recipe-contents">
+    <div class="blog-yumprint-photo-middle" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2012/10/IMG_4862.jpg)">
+    </div>
+    
+    <div class="blog-yumprint-ingredient-section" yumprintsection="0">
+      <div class="blog-yumprint-subheader">
+        Ingredientes
+      </div>
+      
+      <ol class='blog-yumprint-ingredients'>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="0" itemprop="ingredients">
+          200 g de <strong>fresas.</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="1" itemprop="ingredients">
+          200 g de <strong>frambuesas.</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="2" itemprop="ingredients">
+          2-4 sobre/cucharadas de <strong>stevia.</strong>
+        </li>
+      </ol>
+    </div>
+    
+    <div class="blog-yumprint-method-section" yumprintsection="1">
+      <div class="blog-yumprint-subheader">
+        Preparación
+      </div>
+      
+      <ol class="blog-yumprint-methods" itemprop="recipeInstructions">
+        <li class="blog-yumprint-method-item" yumprintitem="0">
+          <strong>Lava</strong> muy bien las frutas.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="1">
+          <strong>Coloca</strong> las frutas en una olla honda con tapa a fuego bajo <strong>sin agua</strong>. La fruta empezará a ablandarse poco a poco.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="2">
+          <strong>Aplasta</strong> las frutas blandas con un tenedor para ir creando la consistencia deseada.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="3">
+          <strong>Cuela</strong> toda la mermelada si te molestan las semillas de las fresas.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="4">
+          <strong>Agrega</strong> el edulcorante una vez que la mermelada tenga la consistencia que quieres. Si todavía es muy espesa para tu gusto, utiliza una licuadora de mano para mejorarla.
+        </li>
+      </ol>
+    </div>
+    
+    <div class="blog-yumprint-note-section" yumprintsection="2">
+      <div class="blog-yumprint-subheader">
+        Notas
+      </div>
+      
+      <ol class='blog-yumprint-notes'>
+        <li class="blog-yumprint-note-item" yumprintitem="0">
+          Como dije antes, para hacer mermelada de otras frutas, se siguen los mismos pasos. Hoy hice una de manzana, con <strong>4 manzanas</strong> golden delicious (peladas), <strong>2 cucharadas de stevia</strong> y un poco de <strong>canela molida</strong>. ¡Va perfecta con <a href="http://blog.andreabravo.me/2012/08/receta-de-mantequilla-de-mani-saludable/" title="Receta de mantequilla de maní saludable" target="_blank">mantequilla de maní</a>!
+        </li>
+      </ol>
+    </div>
+    
+    <div class="author blog-yumprint-author" itemprop="author">
+      Por Andrea Bravo Balado
+    </div>
+    
+    <div class="blog-yumprint-recipe-source">
+      theCookInMe http://blog.andreabravo.me/
+    </div>
+  </div>
+</div>
+
+
+<p>¡Listo! Esta mermelada se puede disfrutar por unos</p>
+
+<p><strong>7-10 días</strong> bien refrigerada.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ponquecitos Salados De Calabacín]]></title>
+    <link href="http://blog.andreabravo.me/2012/10/ponquecitos-salados-de-calabacin/"/>
+    <updated>2012-10-30T00:00:00+01:00</updated>
+    <id>http://blog.andreabravo.me/2012/10/ponquecitos-salados-de-calabacin</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/10/IMG_5057.jpg"><img class="aligncenter size-full wp-image-1159" title="Ponquecitos salados de calabacín" alt="Ponquecitos salados de calabacín" src="http://blog.andreabravo.me/wp-content/uploads/2012/10/IMG_5057.jpg" width="500" height="500" /></a></p>
+
+<p>¡Hola! Buscando opciones para merendar de forma saludable, me ha costado mucho encontrar opciones saladas distintas a los frutos secos. Por fin encontré estos <a title="Gluten-Free Breakfast Muffins with Zucchini, Feta, and Quinoa" href="http://www.kalynskitchen.com/2008/10/vegetarian-and-glutten-free-breakfast.html" target="_blank">ponquecitos salados</a> y decidí adaptarlo a mi forma de cocinar, que se parece más a la de <a title="thestonesoup" href="http://thestonesoup.com/blog/" target="_blank">Jules Clancy</a>, porque prefiero cocinar con unos <strong>5 ingredientes</strong> (sin contar aquellos que tenemos normalmente en casa como el aceite de oliva, sal y pimienta y especias).</p>
+
+<p>Además de cambiar algunos ingredientes de la receta original, hice solamente la mitad de la mezcla y aún así resultan en 12 ponquecitos. Lo mejor de todo es que son libres de gluten, bajísimos en carbohidratos y ricos en proteínas y grasas buenas.</p>
+
+<div class="blog-yumprint-recipe blog-yumprint-stat-focus   blog-yumprint-numbered-methods " yumprintrecipe="cPUm" itemscope itemtype="http://schema.org/Recipe">
+  <img class="blog-yumprint-google-image" src="http://blog.andreabravo.me/wp-content/uploads/2012/10/IMG_5057.jpg" style="display:block;position:absolute;left:-10000px;top:-10000px;" itemprop="image" /> <div class="blog-yumprint-photo-top" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2012/10/IMG_5057.jpg)">
+  </div>
+  
+  <div class="blog-yumprint-recipe-title" itemprop="name">
+    Ponquecitos salados de calabacín
+  </div>
+  
+  <div class="blog-yumprint-recipe-published" itemprop="datePublished">
+    2013-10-28 04:33:22
+  </div>
+  
+  <img class="blog-yumprint-photo-top-large" src="http://blog.andreabravo.me/wp-content/uploads/2012/10/IMG_5057.jpg" /> <div class="blog-yumprint-serves">
+    Porciones: 12
+  </div>
+  
+  <div class="blog-yumprint-recipe-summary" itemprop="description">
+    Ponquecitos salados de verduras, una forma distinta de comer huevos
+  </div>
+  
+  <div class="blog-yumprint-spacer">
+  </div>
+  
+  <div class="blog-yumprint-info-bar">
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Preparación
+      </div>
+      
+      <div class="duration-blog-yumprint-infobox-section-data" itemprop="prepTime" datetime="PT10M">
+        10 min <span class="value-title" title="PT10M"></span>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Cocción
+      </div>
+      
+      <div class="duration-blog-yumprint-infobox-section-data" itemprop="cookTime" datetime="PT25M">
+        25 min <span class="value-title" title="PT25M"></span>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-infobar-section">
+      <div class="blog-yumprint-infobar-section-title">
+        Listo en
+      </div>
+      
+      <div class="duration-blog-yumprint-infobox-section-data" itemprop="totalTime" datetime="PT35M">
+        35 min <span class="value-title" title="PT35M"></span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="blog-yumprint-recipe-contents">
+    <div class="blog-yumprint-photo-middle" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2012/10/IMG_5057.jpg)">
+    </div>
+    
+    <div class="blog-yumprint-info-box">
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Preparación
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="prepTime" dateTime="PT10M">
+          10 min <span class="value-title" title="PT10M"></span>
+        </div>
+      </div>
+      
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Cocción
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="cookTime" dateTime="PT25M">
+          25 min <span class="value-title" title="PT25M"></span>
+        </div>
+      </div>
+      
+      <div class="blog-yumprint-infobox-section">
+        <div class="blog-yumprint-infobox-section-title">
+          Listo en
+        </div>
+        
+        <div class="duration-blog-yumprint-infobox-section-data" itemprop="totalTime" datetime="PT35M">
+          35 min <span class="value-title" title="PT35M"></span>
+        </div>
+      </div>
+    </div>
+    
+    <div class="blog-yumprint-ingredient-section" yumprintsection="0">
+      <div class="blog-yumprint-subheader">
+        Ingredientes
+      </div>
+      
+      <ol class='blog-yumprint-ingredients'>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="0" itemprop="ingredients">
+          1/2 <strong>calabacín</strong> mediano.
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="1" itemprop="ingredients">
+          1 <strong>cebolla</strong> pequeña.
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="2" itemprop="ingredients">
+          4 <strong>huevos.</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="3" itemprop="ingredients">
+          1 taza de <strong>harina de almendras.</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="4" itemprop="ingredients">
+          100 g de <strong>queso cottage</strong> (o ricotta o algún otro queso).
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="5" itemprop="ingredients">
+          1 cucharadita de <strong>polvo de hornear.</strong>
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="6" itemprop="ingredients">
+          1 cucharada de <strong>aceite de oliva</strong> extra virgen
+        </li>
+        <li class="blog-yumprint-ingredient-item" yumprintitem="7" itemprop="ingredients">
+          <strong>Sal y pimienta</strong> al gusto
+        </li>
+      </ol>
+    </div>
+    
+    <div class="blog-yumprint-method-section" yumprintsection="1">
+      <div class="blog-yumprint-subheader">
+        Preparación
+      </div>
+      
+      <ol class="blog-yumprint-methods" itemprop="recipeInstructions">
+        <li class="blog-yumprint-method-item" yumprintitem="0">
+          <strong>Corta</strong> la cebolla y el calabacín en cuadritos.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="1">
+          <strong>Saltea</strong>, bien sea en sartén de teflón sin aceite o con aceite en spray o bien usando una cucharada de aceite de oliva, hasta que esté suave y empezando a oscurecer.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="2">
+          <strong>Mezcla</strong> en un bol, los huevos, la harina de almendras, el queso cottage, el calabacín y la cebolla ya salteados, y sal y pimienta al gusto.
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="3">
+          <strong>Divide</strong> la mezcla en los capacillos (salen unos 12).
+        </li>
+        <li class="blog-yumprint-method-item" yumprintitem="4">
+          <strong>Hornea</strong> por aproximadamente <strong>25 minutos a 180°C o 350°F</strong> o hasta que los ponquecitos se vean como el de la foto.
+        </li>
+      </ol>
+    </div>
+    
+    <div class="blog-yumprint-note-section" yumprintsection="2">
+      <div class="blog-yumprint-subheader">
+        Notas
+      </div>
+      
+      <ol class='blog-yumprint-notes'>
+        <li class="blog-yumprint-note-item" yumprintitem="0">
+          También quedan bien si en lugar de 1 taza de harina de almendras, se usa 1/2 y la otra mitad se sustituye por otro tipo de harina, como de arroz o de avena.
+        </li>
+      </ol>
+    </div>
+    
+    <div class="author blog-yumprint-author" itemprop="author">
+      Por Andrea Bravo Balado
+    </div>
+    
+    <div class="blog-yumprint-adapted">
+      Adaptación de <a class="blog-yumprint-adapted-link" href="http://www.kalynskitchen.com/2008/10/vegetarian-and-glutten-free-breakfast.html"> Kalyn&#8217;s Kitchen </a>
+    </div>
+    
+    <div class="blog-yumprint-adapted-print">
+      Adaptación de Kalyn&#8217;s Kitchen
+    </div>
+    
+    <div class="blog-yumprint-recipe-source">
+      theCookInMe http://blog.andreabravo.me/
+    </div>
+  </div>
+</div>
+
+
+<p>Se pueden guardar en la nevera por varios días, yo diría que máximo 10 días. Espero que les guste.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Receta De Hamburguesas De Garbanzos]]></title>
+    <link href="http://blog.andreabravo.me/2012/08/receta-de-hamburguesas-de-garbanzos/"/>
+    <updated>2012-08-23T00:00:00+02:00</updated>
+    <id>http://blog.andreabravo.me/2012/08/receta-de-hamburguesas-de-garbanzos</id>
+    <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/08/HamburguesasGarbanzos.jpg"><img class="aligncenter size-full wp-image-1113" title="HamburguesasGarbanzos" alt="" src="http://blog.andreabravo.me/wp-content/uploads/2012/08/HamburguesasGarbanzos.jpg" width="600" height="600" /></a></p>
+
+<p>¡Hola! La receta de hoy es riquísima, lo advierto. Lo bueno es que así como rica, es <strong>sana</strong> también y además <strong>vegetariana</strong>.</p>
+
+<p>El <a title="Garbanzo en Wikipedia" href="http://es.wikipedia.org/wiki/Cicer_arietinum" target="_blank">garbanzo</a> es una leguminosa muy nutritiva porque es rica en los tres grupos alimenticios principales: proteínas, carbohidratos y grasas. Además, contiene muchísima fibra, lo que equilibra su contenido de hidratos de carbono.</p>
+
+<p>Así tenemos que <strong>100 gramos de garbanzos</strong> contienen: 20.4 gramos de proteínas, 55 gramos de carbohidratos, 15 gramos de fibra y 5 gramos de grasas <strong>libres de colesterol</strong>. Además de eso, son fuente significativa de fósforo, magnesio y potasio.</p>
+
+<p>Esta receta resulta buenísima para participar en los <a title="Lunes sin Carne" href="http://lunessincarne.org/lunessincarne.html" target="_blank">#LunesSinCarne</a> o simplemente para comer algo distinto. La receta es de mi mamá :)</p>
+
+<div class="blog-yumprint-recipe blog-yumprint-stat-focus blog-yumprint-numbered-methods " yumprintrecipe="cPr1" itemscope itemtype="http://schema.org/Recipe">
+<img class="blog-yumprint-google-image" src="http://blog.andreabravo.me/wp-content/uploads/2012/08/HamburguesasGarbanzos.jpg" style="display:block;position:absolute;left:-10000px;top:-10000px;" itemprop="image" /> <div class="blog-yumprint-photo-top" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2012/08/HamburguesasGarbanzos.jpg)">
+</div>
+
+<div class="blog-yumprint-recipe-title" itemprop="name">
+Hamburguesas de garbanzos
+</div>
+
+<div class="blog-yumprint-recipe-published" itemprop="datePublished">
+2013-10-27 17:09:02
+</div>
+
+<img class="blog-yumprint-photo-top-large" src="http://blog.andreabravo.me/wp-content/uploads/2012/08/HamburguesasGarbanzos.jpg" /> <div class="blog-yumprint-serves">
+Porciones: 8
+</div>
+
+<div class="blog-yumprint-spacer">
+</div>
+
+<div class="blog-yumprint-info-bar">
+<div class="blog-yumprint-infobar-section">
+<div class="blog-yumprint-infobar-section-title">
+Preparación
+</div>
+
+<div class="duration-blog-yumprint-infobox-section-data" itemprop="prepTime" datetime="PT20M">
+20 min <span class="value-title" title="PT20M"></span>
+</div>
+</div>
+
+<div class="blog-yumprint-infobar-section">
+<div class="blog-yumprint-infobar-section-title">
+Cocción
+</div>
+
+<div class="duration-blog-yumprint-infobox-section-data" itemprop="cookTime" datetime="PT15M">
+15 min <span class="value-title" title="PT15M"></span>
+</div>
+</div>
+
+<div class="blog-yumprint-infobar-section">
+<div class="blog-yumprint-infobar-section-title">
+Listo en
+</div>
+
+<div class="duration-blog-yumprint-infobox-section-data" itemprop="totalTime" datetime="PT35M">
+35 min <span class="value-title" title="PT35M"></span>
+</div>
+</div>
+</div>
+
+<div class="blog-yumprint-recipe-contents">
+<div class="blog-yumprint-photo-middle" style="background-image: url(http://blog.andreabravo.me/wp-content/uploads/2012/08/HamburguesasGarbanzos.jpg)">
+</div>
+
+<div class="blog-yumprint-info-box">
+<div class="blog-yumprint-infobox-section">
+<div class="blog-yumprint-infobox-section-title">
+Preparación
+</div>
+
+<div class="duration-blog-yumprint-infobox-section-data" itemprop="prepTime" dateTime="PT20M">
+20 min <span class="value-title" title="PT20M"></span>
+</div>
+</div>
+
+<div class="blog-yumprint-infobox-section">
+<div class="blog-yumprint-infobox-section-title">
+Cocción
+</div>
+
+<div class="duration-blog-yumprint-infobox-section-data" itemprop="cookTime" dateTime="PT15M">
+15 min <span class="value-title" title="PT15M"></span>
+</div>
+</div>
+
+<div class="blog-yumprint-infobox-section">
+<div class="blog-yumprint-infobox-section-title">
+Listo en
+</div>
+
+<div class="duration-blog-yumprint-infobox-section-data" itemprop="totalTime" datetime="PT35M">
+35 min <span class="value-title" title="PT35M"></span>
+</div>
+</div>
+</div>
+
+<div class="blog-yumprint-ingredient-section" yumprintsection="0">
+<div class="blog-yumprint-subheader">
+Ingredientes
+</div>
+
+<ol class='blog-yumprint-ingredients'>
+<li class="blog-yumprint-ingredient-item" yumprintitem="0" itemprop="ingredients">
+1 taza de <strong>garbanzos</strong> secos.
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="1" itemprop="ingredients">
+1/2 <strong>zanahoria</strong> grande o 2 zanahorias bebés.
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="2" itemprop="ingredients">
+1/2 <strong>pimentón</strong> verde (o 1 si es pequeño).
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="3" itemprop="ingredients">
+1 <strong>ají</strong> dulce (opcional).
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="4" itemprop="ingredients">
+2 dientes de <strong>ajo</strong> (opcional).
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="5" itemprop="ingredients">
+1 cucharadita de <strong>polvo de hornear</strong>.
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="6" itemprop="ingredients">
+2-3 cucharaditas de <strong>curry</strong>.
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="7" itemprop="ingredients">
+<strong>Sal y pimienta</strong> al gusto.
+</li>
+<li class="blog-yumprint-ingredient-item" yumprintitem="8" itemprop="ingredients">
+Un procesador de alimentos (o una licuadora en su defecto).
+</li>
+</ol>
+</div>
+
+<div class="blog-yumprint-method-section" yumprintsection="1">
+<div class="blog-yumprint-subheader">
+Preparación
+</div>
+
+<ol class="blog-yumprint-methods" itemprop="recipeInstructions">
+<li class="blog-yumprint-method-item" yumprintitem="0">
+El primer paso es colocar la taza de <strong>garbanzos en un recipiente y cubrirlos con agua</strong> y dejar que el agua se absorba. Esto puede tomar varias horas así que lo mejor es dejarlo por la noche.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="1">
+Si queda algo de agua sobrante, no importa, sólo se escurre y se echan los garbanzos en el procesador.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="2">
+<strong>Agregar todos los ingredientes y procesar</strong> hasta que queden trozos pequeños de garbanzos y verduras (picadito).
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="3">
+Luego, hacer bolitas con las manos y darles la forma de hamburguesa que queremos. Si tienes algún utensilio para hacer la forma, mejor.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="4">
+Colocar en una sartén de teflón bien caliente para que se selle y darle vuelta, para <strong>dorar por ambos lados</strong>. Si es necesario, se puede poner un poquito de aceite en spray o pasarle una toalla de papel absorbente con aceite, pero no es lo ideal.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="5">
+Colocar en una bandeja de hornear o una fuente de vidrio las hamburguesas que se van sacando de la sartén.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="6">
+<strong>Hornear</strong> por unos 10-15 minutos a 180°C o 350°F.
+</li>
+<li class="blog-yumprint-method-item" yumprintitem="7">
+¡Listo!
+</li>
+</ol>
+</div>
+
+<div class="author blog-yumprint-author" itemprop="author">
+Por Mariela Balado
+</div>
+
+<div class="blog-yumprint-recipe-source">
+theCookInMe http://blog.andreabravo.me/
+</div>
+</div>
+</div>
+
+
+<p>Lo ideal es acompañarlo con verduras porque las hamburguesas ya aportan las proteínas y carbohidratos del plato. Va muy bien con una <strong>salsa a base de yogur</strong> (si es griego, mejor) o también me parece que puede quedar bien con <a title="Tahina en Wikipedia" href="http://es.wikipedia.org/wiki/Tahina" target="_blank">tahina</a>. En fin, las posibilidades son muchas. También se puede variar las verduras, por ejemplo, usar pimentón rojo o amarillo en lugar de verde, etc&#8230; depende de lo que haya disponible. También sirven para una parrillada vegetariana.</p>
+]]></content>
+  </entry>
+  
+</feed>
