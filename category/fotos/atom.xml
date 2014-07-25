@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Fotos | theCookInMe]]></title>
-  <link href="http://blog.andreabravo.me/category/fotos/atom.xml" rel="self"/>
-  <link href="http://blog.andreabravo.me/"/>
-  <updated>2014-07-25T23:02:00+02:00</updated>
-  <id>http://blog.andreabravo.me/</id>
+  <link href="http://blog.andreabravo.me//github/category/fotos/atom.xml" rel="self"/>
+  <link href="http://blog.andreabravo.me//github/"/>
+  <updated>2014-07-26T00:01:23+02:00</updated>
+  <id>http://blog.andreabravo.me//github/</id>
   <author>
     <name><![CDATA[Andrea Bravo Balado]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[57 Días Con Vanessa]]></title>
-    <link href="http://blog.andreabravo.me/2013/05/57-dias-con-vanessa/"/>
+    <link href="http://blog.andreabravo.me//github/2013/05/57-dias-con-vanessa/"/>
     <updated>2013-05-01T00:00:00+02:00</updated>
-    <id>http://blog.andreabravo.me/2013/05/57-dias-con-vanessa</id>
+    <id>http://blog.andreabravo.me//github/2013/05/57-dias-con-vanessa</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/wtftitacgs/8327540467/in/set-72157632386678527"><img src="http://farm9.staticflickr.com/8071/8327540467_6694468beb.jpg" alt="Muestra del trabajo fotográfico de Vanessa Gutiérrez" width="375" height="500" class="aligncenter size-full wp-image-1454" /></a></p>
 
 <p>Mi amiga <a href="http://titacgs.com.ar/" title="Vanessa Gutiérrez" target="_blank">Vanessa</a>, una talentosa ingeniera que se ha dedicado al arte electrónico, está por comenzar su primer proyecto fotográfico titulado <a href="http://blog.titacgs.com.ar/mi-primera-obra-fotografica-57-dias-conmigo/" title="Mi primera obra fotográfica: 57 días conmigo" target="_blank">&#8220;57 días conmigo&#8221;</a>.</p>
@@ -41,9 +41,9 @@ Es importante que dejen sus datos y no realicen una donación anónima para pode
   
   <entry>
     <title type="html"><![CDATA[Fotos Del #photoADayJuly]]></title>
-    <link href="http://blog.andreabravo.me/2012/08/fotos-del-photoadayjuly/"/>
+    <link href="http://blog.andreabravo.me//github/2012/08/fotos-del-photoadayjuly/"/>
     <updated>2012-08-10T00:00:00+02:00</updated>
-    <id>http://blog.andreabravo.me/2012/08/fotos-del-photoadayjuly</id>
+    <id>http://blog.andreabravo.me//github/2012/08/fotos-del-photoadayjuly</id>
     <content type="html"><![CDATA[<p>Aunque al principio me entretuvo mucho y me despertó la creatividad a la hora de hacer fotos, creo que julio fue el último mes donde participé en el reto de #photoaday. Siento que los temas se han vuelto repetitivos con los meses, así que mejor cerrarlo aquí y buscar el siguiente reto :)</p>
 
 <p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/08/photoadayjuly.jpg"><img class="aligncenter" src="http://blog.andreabravo.me/wp-content/uploads/2012/08/photoadayjuly.jpg" alt="" title="photoadayjuly" width="600" height="600" class="aligncenter size-full wp-image-1074" /></a></p>
@@ -124,9 +124,9 @@ Es importante que dejen sus datos y no realicen una donación anónima para pode
   
   <entry>
     <title type="html"><![CDATA[Fotos Del #photoADayJune]]></title>
-    <link href="http://blog.andreabravo.me/2012/08/fotos-del-photoadayjune/"/>
+    <link href="http://blog.andreabravo.me//github/2012/08/fotos-del-photoadayjune/"/>
     <updated>2012-08-09T00:00:00+02:00</updated>
-    <id>http://blog.andreabravo.me/2012/08/fotos-del-photoadayjune</id>
+    <id>http://blog.andreabravo.me//github/2012/08/fotos-del-photoadayjune</id>
     <content type="html"><![CDATA[<p>¡Oh, junio! Las fotos de este mes están más variadas porque estuve de viaje con mi familia :)</p>
 
 <p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/08/photoadayjune.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2012/08/photoadayjune.jpg" alt="" title="#PhotoADayJune" width="600" height="600" class="aligncenter size-full wp-image-1068" /></a></p>
@@ -198,9 +198,9 @@ Es importante que dejen sus datos y no realicen una donación anónima para pode
   
   <entry>
     <title type="html"><![CDATA[Fotos Del #photoADayMay]]></title>
-    <link href="http://blog.andreabravo.me/2012/06/fotos-del-photoadaymay/"/>
+    <link href="http://blog.andreabravo.me//github/2012/06/fotos-del-photoadaymay/"/>
     <updated>2012-06-01T00:00:00+02:00</updated>
-    <id>http://blog.andreabravo.me/2012/06/fotos-del-photoadaymay</id>
+    <id>http://blog.andreabravo.me//github/2012/06/fotos-del-photoadaymay</id>
     <content type="html"><![CDATA[<p>En mayo estuve tan ocupada que no pude tomar las fotos diariamente la segunda mitad del mes, pero como ya lo había comenzado, mejor terminar, ¿no?</p>
 
 <p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/06/photoadaymay.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2012/06/photoadaymay.jpg" alt="" title="#photoADayMay" width="500" height="500" class="aligncenter size-full wp-image-803" /></a></p>
@@ -254,9 +254,9 @@ Es importante que dejen sus datos y no realicen una donación anónima para pode
   
   <entry>
     <title type="html"><![CDATA[Fotos Del #photoADayApril]]></title>
-    <link href="http://blog.andreabravo.me/2012/06/fotos-del-photoadayapril/"/>
+    <link href="http://blog.andreabravo.me//github/2012/06/fotos-del-photoadayapril/"/>
     <updated>2012-06-01T00:00:00+02:00</updated>
-    <id>http://blog.andreabravo.me/2012/06/fotos-del-photoadayapril</id>
+    <id>http://blog.andreabravo.me//github/2012/06/fotos-del-photoadayapril</id>
     <content type="html"><![CDATA[<p>En abril me uní a un juego divertido que inició una mamá en Australia en Instagram. Se llama #photoADay y se trata de ponerle una especie de tema al día y hacer una foto con esa idea.</p>
 
 <p><img class="aligncenter" src="http://blog.andreabravo.me/wp-content/uploads/2012/06/photoadayapril.jpg" alt="#photoADayApril"></p>

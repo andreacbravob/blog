@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.andreabravo.me/sitemap.xml 
+Sitemap: http://blog.andreabravo.me//github/sitemap.xml 

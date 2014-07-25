@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[theCookInMe]]></title>
-  <link href="http://blog.andreabravo.me/atom.xml" rel="self"/>
-  <link href="http://blog.andreabravo.me/"/>
-  <updated>2014-07-25T23:02:00+02:00</updated>
-  <id>http://blog.andreabravo.me/</id>
+  <link href="http://blog.andreabravo.me//github/atom.xml" rel="self"/>
+  <link href="http://blog.andreabravo.me//github/"/>
+  <updated>2014-07-26T00:01:23+02:00</updated>
+  <id>http://blog.andreabravo.me//github/</id>
   <author>
     <name><![CDATA[Andrea Bravo Balado]]></name>
     
@@ -15,24 +15,33 @@
   
   <entry>
     <title type="html"><![CDATA[Linking Historical Ship Records to Newspaper Archives]]></title>
-    <link href="http://blog.andreabravo.me/2014/07/linking-historical-ship-records-to-newspaper-archives/"/>
+    <link href="http://blog.andreabravo.me//github/2014/07/linking-historical-ship-records-to-newspaper-archives/"/>
     <updated>2014-07-25T00:00:00+02:00</updated>
-    <id>http://blog.andreabravo.me/2014/07/linking-historical-ship-records-to-newspaper-archives</id>
-    <content type="html"><![CDATA[<p><strong>Linking historical datasets</strong> and making them available for the Web has increasingly become a subject of research in the field of <strong>digital humanities</strong>. In the Netherlands, history is intimately related to the <strong>maritime activity</strong> because it has been essential in the development of economic, social and cultural aspects of Dutch society. As such an important sector, it has been well documented by shipping companies, governments, newspapers and other institutions.
-In this master project we assume that, given the importance of maritime activity in every day life in the XIX and XX centuries, announcements on the departures and arrivals of ships or mentions of accidents or other events, can be found in newspapers.
-We have taken a two-stage approach: first, an heuristic-based method for <strong>record linkage</strong> and then <strong>machine-learning algorithms</strong> for article classification to be used for filtering in combination with domain features. Evaluation of the linking method has shown that certain domain features were indicative of mentions of ships in newspapers. Moreover, the classifier methods scored near perfect precision in predicting ship related articles.
-Enriching historical ship records with links to newspaper archives is significant for the digital history community since it connects two datasets that would have otherwise required extensive annotating work and man hours to align. Our work is part of the <a href=“http://dutchshipsandsailors.nl/”>Dutch Ships and Sailors Linked Data Cloud></a> project.</p>
+    <id>http://blog.andreabravo.me//github/2014/07/linking-historical-ship-records-to-newspaper-archives</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/8725928@N02/4473090245"><img src="http://blog.andreabravo.me/wp-content/uploads/2014/07/CC_janwillemsen.jpg"/></a></p>
 
-<iframe src="https://docs.google.com/presentation/d/1HSzQIWc5SX4AGjOsOlja6gF-n44OwGJRxixklUSQ6Gs/embed?start=false&loop=false&delayms=30000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<p>(Sí, sí, ya sé que el blog es un poco más de cocina y que es en español pero hago una excepción para presentar mi proyecto de maestría :D)</p>
+
+<p><strong>Linking historical datasets</strong> and making them available for the Web has increasingly become a subject of research in the field of <strong>digital humanities</strong>. In the Netherlands, history is intimately related to the <strong>maritime activity</strong> because it has been essential in the development of economic, social and cultural aspects of Dutch society. As such an important sector, it has been well documented by shipping companies, governments, newspapers and other institutions.</p>
+
+<p>In this master project we assume that, given the importance of maritime activity in every day life in the XIX and XX centuries, announcements on the departures and arrivals of ships or mentions of accidents or other events, can be found in newspapers.</p>
+
+<p>We have taken a two-stage approach: first, an heuristic-based method for <strong>record linkage</strong> and then <strong>machine-learning algorithms</strong> for article classification to be used for filtering in combination with domain features. Evaluation of the linking method has shown that certain domain features were indicative of mentions of ships in newspapers. Moreover, the classifier methods scored near perfect precision in predicting ship related articles.</p>
+
+<p>Enriching historical ship records with links to newspaper archives is significant for the digital history community since it connects two datasets that would have otherwise required extensive annotating work and man hours to align. Our work is part of the <a href=“http://dutchshipsandsailors.nl/”>Dutch Ships and Sailors Linked Data Cloud</a> project.</p>
+
+<iframe src="https://docs.google.com/presentation/d/1HSzQIWc5SX4AGjOsOlja6gF-n44OwGJRxixklUSQ6Gs/embed?start=false&loop=false&delayms=30000" frameborder="0" width="680" height="411" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[¡De Vuelta!]]></title>
-    <link href="http://blog.andreabravo.me/2014/02/de-vuelta/"/>
+    <link href="http://blog.andreabravo.me//github/2014/02/de-vuelta/"/>
     <updated>2014-02-15T00:00:00+01:00</updated>
-    <id>http://blog.andreabravo.me/2014/02/de-vuelta</id>
+    <id>http://blog.andreabravo.me//github/2014/02/de-vuelta</id>
     <content type="html"><![CDATA[<p>Una vez más he mudado mi blog. Esta vez, he decidido alojar mi sitio en Github Pages y utilizo Octopress como framework para el blog.
 Fueron muchas las búsquedas de instrucciones, resolución de errores y ensayo y error pero al fin lo logré :)
 Fui un poco desordenada y no documenté lo que iba haciendo, así que para explicarlo mejor necesitaré otro post y así tal vez le ahorre un montón de tiempo a alguien más.
@@ -44,9 +53,9 @@ Además del cambio de tecnología, decidí cambiarle el nombre al blog. Si bien 
   
   <entry>
     <title type="html"><![CDATA[Ponquecitos De Zanahoria Sin Azúcar Y Sin Harina]]></title>
-    <link href="http://blog.andreabravo.me/2013/11/ponquecitos-de-zanahoria-sin-azucar-y-sin-harina/"/>
+    <link href="http://blog.andreabravo.me//github/2013/11/ponquecitos-de-zanahoria-sin-azucar-y-sin-harina/"/>
     <updated>2013-11-27T00:00:00+01:00</updated>
-    <id>http://blog.andreabravo.me/2013/11/ponquecitos-de-zanahoria-sin-azucar-y-sin-harina</id>
+    <id>http://blog.andreabravo.me//github/2013/11/ponquecitos-de-zanahoria-sin-azucar-y-sin-harina</id>
     <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/11/Ponquecitos-de-zanahoria.jpg"><img class="aligncenter size-full wp-image-1612" alt="Ponquecitos de zanahoria" src="http://blog.andreabravo.me/wp-content/uploads/2013/11/Ponquecitos-de-zanahoria.jpg" width="600" height="450" /></a></p>
 
 <p>Desde mi cumpleaños y la semana siguiente que probé dos <strong>tortas de zanahoria</strong> en dos sitios distintos, quedé con las ganas de conseguir una receta <strong>sin azúcar ni harina y baja en carbohidratos</strong>. Todas las recetas que conseguí sin harina, tenía azúcar morena y las que no tenían azúcar, llevaban jarabe de agave o miel, que no son precisamente low-carb. Sino, tenían una laaarga lista de ingredientes y yo prefiero cocinar con menos.</p>
@@ -275,9 +284,9 @@ theCookInMe http://blog.andreabravo.me
   
   <entry>
     <title type="html"><![CDATA[Tartaletas Primal/veganas De Banana Y Frutos Secos]]></title>
-    <link href="http://blog.andreabravo.me/2013/11/tartaletas-primalveganas-de-banana-y-frutos-secos/"/>
+    <link href="http://blog.andreabravo.me//github/2013/11/tartaletas-primalveganas-de-banana-y-frutos-secos/"/>
     <updated>2013-11-16T00:00:00+01:00</updated>
-    <id>http://blog.andreabravo.me/2013/11/tartaletas-primalveganas-de-banana-y-frutos-secos</id>
+    <id>http://blog.andreabravo.me//github/2013/11/tartaletas-primalveganas-de-banana-y-frutos-secos</id>
     <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/11/2013-11-16-15.43.50-copy.jpg"><img class="aligncenter size-full wp-image-1602" alt="Tartaletas primal/veganas de banana y frutos secos" src="http://blog.andreabravo.me/wp-content/uploads/2013/11/2013-11-16-15.43.50-copy.jpg" width="600" height="450" /></a></p>
 
 <p>Llega el fin de semana y llegan las ganas de comer algo dulce. Esta es una receta fabulosa de <a href="https://www.facebook.com/MaiaAldecoaPt" title="Maia Aldecoa en Facebook" target="_blank">Maia Aldecoa</a> que adapté según mis necesidades y los ingredientes que tenía. Primero, hice la mitad de la receta (porque son para mi sola) y además, utilicé harina de almendras en lugar de almendras enteras (en la misma proporción). También usé aceite de coco en lugar de mantequilla de coco y usé moldes individuales. ¡Son deliciosas y rápidas de hacer!</p>
@@ -455,9 +464,9 @@ theCookInMe http://blog.andreabravo.me/
   
   <entry>
     <title type="html"><![CDATA[Galletas De 3 Ingredientes]]></title>
-    <link href="http://blog.andreabravo.me/2013/10/galletas-de-3-ingredientes/"/>
+    <link href="http://blog.andreabravo.me//github/2013/10/galletas-de-3-ingredientes/"/>
     <updated>2013-10-02T00:00:00+02:00</updated>
-    <id>http://blog.andreabravo.me/2013/10/galletas-de-3-ingredientes</id>
+    <id>http://blog.andreabravo.me//github/2013/10/galletas-de-3-ingredientes</id>
     <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/10/galletas_3_ingredientes.png"><img class="aligncenter size-full wp-image-1538" alt="Galletas de 3 ingredientes" src="http://blog.andreabravo.me/wp-content/uploads/2013/10/galletas_3_ingredientes.png" width="600" height="428" /></a></p>
 
 <p>Si hay algo que me encaaaaaaanta son las <strong>galletas</strong>. Normalmente evito comprar las procesadas porque sé que me las voy a comer todas una vez abra el paquete. Si hay otra cosa que me encanta son las recetas fáciles y con pocos ingredientes. Hace como 2 meses encontré el blog <a title="Blogilates" href="http://www.blogilates.com/" target="_blank">Cassey Ho</a>, una instructora de fitness y pilates que comparte rutinas de ejercicios, vídeos, recetas, etc. y me he enamorado de ella &lt;3</p>
@@ -624,9 +633,9 @@ theCookInMe http://blog.andreabravo.me/
   
   <entry>
     <title type="html"><![CDATA[Galletas Saladas Bajas en Carbohidratos]]></title>
-    <link href="http://blog.andreabravo.me/2013/09/galletas-saladas-bajas-en-carbohidratos/"/>
+    <link href="http://blog.andreabravo.me//github/2013/09/galletas-saladas-bajas-en-carbohidratos/"/>
     <updated>2013-09-16T00:00:00+02:00</updated>
-    <id>http://blog.andreabravo.me/2013/09/galletas-saladas-bajas-en-carbohidratos</id>
+    <id>http://blog.andreabravo.me//github/2013/09/galletas-saladas-bajas-en-carbohidratos</id>
     <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/09/Galletas.png"><img class="aligncenter size-full wp-image-1528" alt="Galletas saladas bajas en carbohidratos" src="http://blog.andreabravo.me/wp-content/uploads/2013/09/Galletas.png" width="500" height="375" /></a></p>
 
 <p>Hoy tenía muchas ganas de comer <strong>galletas saladas</strong> pero no tenía ganas de ir a la tienda y tampoco quería comprar de las normales de la tienda y se me ocurrió experimentar y salieron estas galletas. Quedan bien ricas y lo mejor es que <strong>si quieres hacer más, simplemente duplicas o triplicas las cantidades</strong> ¡y ya está! (si tienes la suerte de tener un horno más grande que el mío).</p>
@@ -808,9 +817,9 @@ theCookInMe http://blog.andreabravo.me/
   
   <entry>
     <title type="html"><![CDATA[7 Ideas Para Aprovechar Mejor El Espacio]]></title>
-    <link href="http://blog.andreabravo.me/2013/09/7-ideas-para-aprovechar-mejor-el-espacio/"/>
+    <link href="http://blog.andreabravo.me//github/2013/09/7-ideas-para-aprovechar-mejor-el-espacio/"/>
     <updated>2013-09-13T00:00:00+02:00</updated>
-    <id>http://blog.andreabravo.me/2013/09/7-ideas-para-aprovechar-mejor-el-espacio</id>
+    <id>http://blog.andreabravo.me//github/2013/09/7-ideas-para-aprovechar-mejor-el-espacio</id>
     <content type="html"><![CDATA[<p>Hace poco más de un mes me mudé a (otra) habitación de estudiantes. Ahora tengo muchas más cosas que cuando me mudé inicialmente a Holanda. Es natural: donde vivía estaba amoblado y ahora tengo mis propias cosas. En los días que pasé intentando buscarle un lugar a cada cosa (soy maniática con esto), se me ocurrieron varios <strong>trucos</strong>, algunos que había visto en Internet y otros que simplemente aparecieron como el bombillito sobre la cabeza. Tal vez haya mejores formas de hacerlo pero, entre otras cosas, aquí no puedo hacer modificaciones mayores. Además, invertí muy poco dinero en esto : )</p>
 
 <p>Sin más, aquí están las <strong>7 ideas para aprovechar mejor el espacio</strong>:</p>
@@ -870,9 +879,9 @@ theCookInMe http://blog.andreabravo.me/
   
   <entry>
     <title type="html"><![CDATA[Brownies Súper Saludables]]></title>
-    <link href="http://blog.andreabravo.me/2013/06/brownies-super-saludables/"/>
+    <link href="http://blog.andreabravo.me//github/2013/06/brownies-super-saludables/"/>
     <updated>2013-06-11T00:00:00+02:00</updated>
-    <id>http://blog.andreabravo.me/2013/06/brownies-super-saludables</id>
+    <id>http://blog.andreabravo.me//github/2013/06/brownies-super-saludables</id>
     <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/06/Foto_CC_de_Andrea_Bravo_Balado.png"><img class="aligncenter size-full wp-image-1469" alt="Brownies saludables sin azúcar y sin gluten" src="http://blog.andreabravo.me/wp-content/uploads/2013/06/Foto_CC_de_Andrea_Bravo_Balado.png" width="500" height="375" /></a></p>
 
 <p>Estoy muy contenta con estos brownies porque es la primera vez que intento un postre sin seguir una receta, experimentando con las cantidades y sale algo que no sólo disfruto yo sino también otras personas. Como la mayoría de las recetas que he publicado, <strong>estos brownies no contienen azúcar*, ni harina de trigo, son libres de gluten, bajos en carbohidratos y buena fuente de grasas buenas y proteínas.</strong></p>
@@ -1097,9 +1106,9 @@ theCookInMe http://blog.andreabravo.me/
   
   <entry>
     <title type="html"><![CDATA[57 Días Con Vanessa]]></title>
-    <link href="http://blog.andreabravo.me/2013/05/57-dias-con-vanessa/"/>
+    <link href="http://blog.andreabravo.me//github/2013/05/57-dias-con-vanessa/"/>
     <updated>2013-05-01T00:00:00+02:00</updated>
-    <id>http://blog.andreabravo.me/2013/05/57-dias-con-vanessa</id>
+    <id>http://blog.andreabravo.me//github/2013/05/57-dias-con-vanessa</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/wtftitacgs/8327540467/in/set-72157632386678527"><img src="http://farm9.staticflickr.com/8071/8327540467_6694468beb.jpg" alt="Muestra del trabajo fotográfico de Vanessa Gutiérrez" width="375" height="500" class="aligncenter size-full wp-image-1454" /></a></p>
 
 <p>Mi amiga <a href="http://titacgs.com.ar/" title="Vanessa Gutiérrez" target="_blank">Vanessa</a>, una talentosa ingeniera que se ha dedicado al arte electrónico, está por comenzar su primer proyecto fotográfico titulado <a href="http://blog.titacgs.com.ar/mi-primera-obra-fotografica-57-dias-conmigo/" title="Mi primera obra fotográfica: 57 días conmigo" target="_blank">&#8220;57 días conmigo&#8221;</a>.</p>
@@ -1123,9 +1132,9 @@ Es importante que dejen sus datos y no realicen una donación anónima para pode
   
   <entry>
     <title type="html"><![CDATA[Venezuela, 14 De Abril De 2013]]></title>
-    <link href="http://blog.andreabravo.me/2013/04/venezuela-14-de-abril-de-2013/"/>
+    <link href="http://blog.andreabravo.me//github/2013/04/venezuela-14-de-abril-de-2013/"/>
     <updated>2013-04-15T00:00:00+02:00</updated>
-    <id>http://blog.andreabravo.me/2013/04/venezuela-14-de-abril-de-2013</id>
+    <id>http://blog.andreabravo.me//github/2013/04/venezuela-14-de-abril-de-2013</id>
     <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/04/yosoyvenezolano.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/04/yosoyvenezolano.jpg" alt="#YoSoyVenezolano" width="403" height="403" class="aligncenter size-full wp-image-1438" /></a></p>
 
 <p>Aquí no hubo pueblo derrotado. La ventaja de aquel bando fue evidente y descarada. Uso del dinero público, de los <a href="http://monitoreociudadano.org/yomonitoreo/2013/04/65-horas-de-la-campana-de-maduro-en-vtv-2-11-abril-2013/" title="70 horas de campaña de Maduro en VTV (2-12 abril 2013, Monitoreo Ciudadano, informe)" target="_blank">medios de comunicación públicos</a> (y hasta los privados), de todos los recursos del Estado, la manipulación del pueblo, el <a href="http://www.madurodice.com/" title="Maduro dice" target="_blank">uso de la figura de Chávez hasta decir basta</a> y absolutamente todos los poderes parcializados de su lado, además de las innumerables <a href="http://transparencia.org.ve/informes-de-denuncias-recibidas-por-la-red-eleccion-ciudadana-este-14-a/" title="Informes de denuncias recibidas por la Red Elección Ciudadana este 14-A" target="_blank">denuncias de abusos</a> que hubo. En Venezuela hace rato se borró <strong>la línea que DEBE haber entre Estado y el partido de gobierno</strong> con la mayoría. Pero con este resultado, ¿ellos se pueden llamar mayoría? No. Estamos divididos a la mitad.<br/>
@@ -1144,9 +1153,9 @@ Se vienen tiempos oscuros, donde seguiremos teniendo todo en contra, incluso la 
   
   <entry>
     <title type="html"><![CDATA[Pan Sin Gluten Ni Azúcar, Inspirado en Los Principios De Primal Blueprint]]></title>
-    <link href="http://blog.andreabravo.me/2013/03/pan-sin-gluten-ni-azucar/"/>
+    <link href="http://blog.andreabravo.me//github/2013/03/pan-sin-gluten-ni-azucar/"/>
     <updated>2013-03-11T00:00:00+01:00</updated>
-    <id>http://blog.andreabravo.me/2013/03/pan-sin-gluten-ni-azucar</id>
+    <id>http://blog.andreabravo.me//github/2013/03/pan-sin-gluten-ni-azucar</id>
     <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2013/03/pan-sin-gluten-ni-azucar.png"><img class="aligncenter size-full wp-image-1399" alt="Pan sin glúten ni azúcar" src="http://blog.andreabravo.me/wp-content/uploads/2013/03/pan-sin-gluten-ni-azucar.png" width="600" height="450" /></a></p>
 
 <p>Desde que leí el libro <strong>Primal Blueprint de Mark Sisson</strong>, muchas de las cosas que pensaba que sabía de nutrición, han cambiado. He disminuido el consumo de <strong>cereales</strong> poco a poco. Preferí hacerlo paulatinamente por dos razones: primero, todavía me quedan algunos cereales (como avena) y detesto botar la comida y segundo para que el choque no fuera tan drástico y me llevara a rendirme.</p>
@@ -1362,9 +1371,9 @@ Se vienen tiempos oscuros, donde seguiremos teniendo todo en contra, incluso la 
   
   <entry>
     <title type="html"><![CDATA[Aaand, We&#8217;re Back!]]></title>
-    <link href="http://blog.andreabravo.me/2013/02/aaand-were-back/"/>
+    <link href="http://blog.andreabravo.me//github/2013/02/aaand-were-back/"/>
     <updated>2013-02-02T00:00:00+01:00</updated>
-    <id>http://blog.andreabravo.me/2013/02/aaand-were-back</id>
+    <id>http://blog.andreabravo.me//github/2013/02/aaand-were-back</id>
     <content type="html"><![CDATA[<p><a href="http://www.etsy.com/listing/103511809/keep-calm-and-blog-on-large-13x19"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/02/blogon-300x300.jpg" alt="Keep calm and blog on " width="300" height="300" class="aligncenter size-medium wp-image-1379" /></a></p>
 
 <p>Luego de algunos problemas técnicos y cambio de hosting, mi blog está de vuelta. Debo confesar que a pesar de que no escribo tanto, me tenía ansiosa no tener mi espacio disponible.</p>
@@ -1375,9 +1384,9 @@ Se vienen tiempos oscuros, donde seguiremos teniendo todo en contra, incluso la 
   
   <entry>
     <title type="html"><![CDATA[Reeddit, Cliente Minimalista Para Reddit]]></title>
-    <link href="http://blog.andreabravo.me/2012/11/reeddit-cliente-minimalista-para-reddit/"/>
+    <link href="http://blog.andreabravo.me//github/2012/11/reeddit-cliente-minimalista-para-reddit/"/>
     <updated>2012-11-23T00:00:00+01:00</updated>
-    <id>http://blog.andreabravo.me/2012/11/reeddit-cliente-minimalista-para-reddit</id>
+    <id>http://blog.andreabravo.me//github/2012/11/reeddit-cliente-minimalista-para-reddit</id>
     <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/11/Reeddit.png"><img src="http://blog.andreabravo.me/wp-content/uploads/2012/11/Reeddit.png" alt="Reeddit, lector minimalista de Reddit" width="267" height="72" class="aligncenter size-full wp-image-1368" /></a></p>
 
 <p><a href="http://es.wikipedia.org/wiki/Reddit" title="reddit en Wikipedia" target="_blank">reddit</a> es un sitio donde los usuarios colaboran con enlaces a contenidos y donde éstos reciben comentarios y votos. Su ranking varía según su calidad, determinada por los usuarios a través de esos votos. Se ha convertido en una especie de <strong>página de inicio de Internet</strong>. Si entras al sitio te darás cuenta de que la interfaz es tan simple que tiende a ser un poco fea (sobre todo por los colores, muy 1998), por lo que cada vez se ven más clientes con distintas características.</p>
@@ -1398,9 +1407,9 @@ Se vienen tiempos oscuros, donde seguiremos teniendo todo en contra, incluso la 
   
   <entry>
     <title type="html"><![CDATA[Torta Y Ponquecitos De Limón Bajos en Carbohidratos]]></title>
-    <link href="http://blog.andreabravo.me/2012/11/torta-y-ponquecitos-de-limon-bajos-en-carbohidratos/"/>
+    <link href="http://blog.andreabravo.me//github/2012/11/torta-y-ponquecitos-de-limon-bajos-en-carbohidratos/"/>
     <updated>2012-11-22T00:00:00+01:00</updated>
-    <id>http://blog.andreabravo.me/2012/11/torta-y-ponquecitos-de-limon-bajos-en-carbohidratos</id>
+    <id>http://blog.andreabravo.me//github/2012/11/torta-y-ponquecitos-de-limon-bajos-en-carbohidratos</id>
     <content type="html"><![CDATA[<div id="attachment_1366" style="width: 610px" class="wp-caption aligncenter">
   <a href="http://blog.andreabravo.me/wp-content/uploads/2012/11/Torta-de-limon-baja-en-carbs1.jpg"><img class="size-full wp-image-1366" alt="Torta de limón baja en carbohidratos" src="http://blog.andreabravo.me/wp-content/uploads/2012/11/Torta-de-limon-baja-en-carbs1.jpg" width="600" height="600" /></a><p class="wp-caption-text">
     Torta de limón baja en carbohidratos
@@ -1585,9 +1594,9 @@ Se vienen tiempos oscuros, donde seguiremos teniendo todo en contra, incluso la 
   
   <entry>
     <title type="html"><![CDATA[Topoku]]></title>
-    <link href="http://blog.andreabravo.me/2012/11/topoku/"/>
+    <link href="http://blog.andreabravo.me//github/2012/11/topoku/"/>
     <updated>2012-11-07T00:00:00+01:00</updated>
-    <id>http://blog.andreabravo.me/2012/11/topoku</id>
+    <id>http://blog.andreabravo.me//github/2012/11/topoku</id>
     <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/11/Screen-Shot-2012-11-07-at-18.05.021.png"><img src="http://blog.andreabravo.me/wp-content/uploads/2012/11/Screen-Shot-2012-11-07-at-18.05.021.png" alt="" title="Topoku" width="600" height="233" class="aligncenter size-full wp-image-1294" /></a></p>
 
 <p>El 5 de noviembre fue el lanzamiento de un proyecto gratuito de dos venezolanos, <a href="http://twitter.com/fixr" title="Freddy Peña en Twitter" target="_blank">@fixr</a> y <a href="http://twitter.com/pentor" title="Fran Peña en Twitter" target="_blank">@pentor</a>, quienes de su bolsillo han desarrollado esta idea divertida.</p>
@@ -1606,9 +1615,9 @@ Se vienen tiempos oscuros, donde seguiremos teniendo todo en contra, incluso la 
   
   <entry>
     <title type="html"><![CDATA[26 Años]]></title>
-    <link href="http://blog.andreabravo.me/2012/11/26-anos/"/>
+    <link href="http://blog.andreabravo.me//github/2012/11/26-anos/"/>
     <updated>2012-11-06T00:00:00+01:00</updated>
-    <id>http://blog.andreabravo.me/2012/11/26-anos</id>
+    <id>http://blog.andreabravo.me//github/2012/11/26-anos</id>
     <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/11/26.jpg"><img src="http://blog.andreabravo.me/wp-content/uploads/2012/11/26.jpg" alt="Podré tener 26 años pero aún disfruto de las burbujas" title="26" width="612" height="612" class="aligncenter size-full wp-image-1202" /></a></p>
 
 <p>El sábado <strong>3 de noviembre</strong> cumplí 26 años. Es el tercer cumpleaños que paso en Holanda, lejos de mi familia y mis amigos de toda la vida, pero en el tiempo que tengo aquí, he aprendido que hay que celebrar como se pueda.</p>
@@ -1625,9 +1634,9 @@ Se vienen tiempos oscuros, donde seguiremos teniendo todo en contra, incluso la 
   
   <entry>
     <title type="html"><![CDATA[Paletas De Helado Saludables]]></title>
-    <link href="http://blog.andreabravo.me/2012/10/paletas-de-helado-saludables/"/>
+    <link href="http://blog.andreabravo.me//github/2012/10/paletas-de-helado-saludables/"/>
     <updated>2012-10-31T00:00:00+01:00</updated>
-    <id>http://blog.andreabravo.me/2012/10/paletas-de-helado-saludables</id>
+    <id>http://blog.andreabravo.me//github/2012/10/paletas-de-helado-saludables</id>
     <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/10/Paleta2.jpg"><img class="aligncenter size-full wp-image-1184" title="Paleta de helado con fresas" alt="Paleta de helado con fresas" src="http://blog.andreabravo.me/wp-content/uploads/2012/10/Paleta2.jpg" width="500" height="500" /></a></p>
 
 <p>Si yo digo helado&#8230; ¿en qué piensas? Yo solía pensar que jamás podría formar parte de mi alimentación regular si quiero seguir en la vía correcta&#8230; Pero me equivoqué, afortunadamente.</p>
@@ -1752,9 +1761,9 @@ Se vienen tiempos oscuros, donde seguiremos teniendo todo en contra, incluso la 
   
   <entry>
     <title type="html"><![CDATA[Mermelada De Frutos Rojos]]></title>
-    <link href="http://blog.andreabravo.me/2012/10/mermelada-de-frutos-rojos/"/>
+    <link href="http://blog.andreabravo.me//github/2012/10/mermelada-de-frutos-rojos/"/>
     <updated>2012-10-31T00:00:00+01:00</updated>
-    <id>http://blog.andreabravo.me/2012/10/mermelada-de-frutos-rojos</id>
+    <id>http://blog.andreabravo.me//github/2012/10/mermelada-de-frutos-rojos</id>
     <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/10/IMG_4862.jpg"><img class="aligncenter size-full wp-image-1166" title="Mermelada de frutos rojos" alt="Mermelada de frutos rojos" src="http://blog.andreabravo.me/wp-content/uploads/2012/10/IMG_4862.jpg" width="500" height="500" /></a></p>
 
 <p>Para mi, hacer mermelada era como magia. No tenía ni idea de cómo se hacía. En vista de que no es TAN fácil (o barato) conseguir productos sin azúcar añadida en Holanda, decidí aprender a hacerla yo misma.</p>
@@ -1859,9 +1868,9 @@ Se vienen tiempos oscuros, donde seguiremos teniendo todo en contra, incluso la 
   
   <entry>
     <title type="html"><![CDATA[Ponquecitos Salados De Calabacín]]></title>
-    <link href="http://blog.andreabravo.me/2012/10/ponquecitos-salados-de-calabacin/"/>
+    <link href="http://blog.andreabravo.me//github/2012/10/ponquecitos-salados-de-calabacin/"/>
     <updated>2012-10-30T00:00:00+01:00</updated>
-    <id>http://blog.andreabravo.me/2012/10/ponquecitos-salados-de-calabacin</id>
+    <id>http://blog.andreabravo.me//github/2012/10/ponquecitos-salados-de-calabacin</id>
     <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/10/IMG_5057.jpg"><img class="aligncenter size-full wp-image-1159" title="Ponquecitos salados de calabacín" alt="Ponquecitos salados de calabacín" src="http://blog.andreabravo.me/wp-content/uploads/2012/10/IMG_5057.jpg" width="500" height="500" /></a></p>
 
 <p>¡Hola! Buscando opciones para merendar de forma saludable, me ha costado mucho encontrar opciones saladas distintas a los frutos secos. Por fin encontré estos <a title="Gluten-Free Breakfast Muffins with Zucchini, Feta, and Quinoa" href="http://www.kalynskitchen.com/2008/10/vegetarian-and-glutten-free-breakfast.html" target="_blank">ponquecitos salados</a> y decidí adaptarlo a mi forma de cocinar, que se parece más a la de <a title="thestonesoup" href="http://thestonesoup.com/blog/" target="_blank">Jules Clancy</a>, porque prefiero cocinar con unos <strong>5 ingredientes</strong> (sin contar aquellos que tenemos normalmente en casa como el aceite de oliva, sal y pimienta y especias).</p>
@@ -2053,9 +2062,9 @@ Se vienen tiempos oscuros, donde seguiremos teniendo todo en contra, incluso la 
   
   <entry>
     <title type="html"><![CDATA[Receta De Hamburguesas De Garbanzos]]></title>
-    <link href="http://blog.andreabravo.me/2012/08/receta-de-hamburguesas-de-garbanzos/"/>
+    <link href="http://blog.andreabravo.me//github/2012/08/receta-de-hamburguesas-de-garbanzos/"/>
     <updated>2012-08-23T00:00:00+02:00</updated>
-    <id>http://blog.andreabravo.me/2012/08/receta-de-hamburguesas-de-garbanzos</id>
+    <id>http://blog.andreabravo.me//github/2012/08/receta-de-hamburguesas-de-garbanzos</id>
     <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/08/HamburguesasGarbanzos.jpg"><img class="aligncenter size-full wp-image-1113" title="HamburguesasGarbanzos" alt="" src="http://blog.andreabravo.me/wp-content/uploads/2012/08/HamburguesasGarbanzos.jpg" width="600" height="600" /></a></p>
 
 <p>¡Hola! La receta de hoy es riquísima, lo advierto. Lo bueno es que así como rica, es <strong>sana</strong> también y además <strong>vegetariana</strong>.</p>

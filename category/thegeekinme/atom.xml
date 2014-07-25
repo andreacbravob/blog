@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: theGeekInMe | theCookInMe]]></title>
-  <link href="http://blog.andreabravo.me/category/thegeekinme/atom.xml" rel="self"/>
-  <link href="http://blog.andreabravo.me/"/>
-  <updated>2014-07-25T23:02:00+02:00</updated>
-  <id>http://blog.andreabravo.me/</id>
+  <link href="http://blog.andreabravo.me//github/category/thegeekinme/atom.xml" rel="self"/>
+  <link href="http://blog.andreabravo.me//github/"/>
+  <updated>2014-07-26T00:01:23+02:00</updated>
+  <id>http://blog.andreabravo.me//github/</id>
   <author>
     <name><![CDATA[Andrea Bravo Balado]]></name>
     
@@ -15,24 +15,33 @@
   
   <entry>
     <title type="html"><![CDATA[Linking Historical Ship Records to Newspaper Archives]]></title>
-    <link href="http://blog.andreabravo.me/2014/07/linking-historical-ship-records-to-newspaper-archives/"/>
+    <link href="http://blog.andreabravo.me//github/2014/07/linking-historical-ship-records-to-newspaper-archives/"/>
     <updated>2014-07-25T00:00:00+02:00</updated>
-    <id>http://blog.andreabravo.me/2014/07/linking-historical-ship-records-to-newspaper-archives</id>
-    <content type="html"><![CDATA[<p><strong>Linking historical datasets</strong> and making them available for the Web has increasingly become a subject of research in the field of <strong>digital humanities</strong>. In the Netherlands, history is intimately related to the <strong>maritime activity</strong> because it has been essential in the development of economic, social and cultural aspects of Dutch society. As such an important sector, it has been well documented by shipping companies, governments, newspapers and other institutions.
-In this master project we assume that, given the importance of maritime activity in every day life in the XIX and XX centuries, announcements on the departures and arrivals of ships or mentions of accidents or other events, can be found in newspapers.
-We have taken a two-stage approach: first, an heuristic-based method for <strong>record linkage</strong> and then <strong>machine-learning algorithms</strong> for article classification to be used for filtering in combination with domain features. Evaluation of the linking method has shown that certain domain features were indicative of mentions of ships in newspapers. Moreover, the classifier methods scored near perfect precision in predicting ship related articles.
-Enriching historical ship records with links to newspaper archives is significant for the digital history community since it connects two datasets that would have otherwise required extensive annotating work and man hours to align. Our work is part of the <a href=“http://dutchshipsandsailors.nl/”>Dutch Ships and Sailors Linked Data Cloud></a> project.</p>
+    <id>http://blog.andreabravo.me//github/2014/07/linking-historical-ship-records-to-newspaper-archives</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/8725928@N02/4473090245"><img src="http://blog.andreabravo.me/wp-content/uploads/2014/07/CC_janwillemsen.jpg"/></a></p>
 
-<iframe src="https://docs.google.com/presentation/d/1HSzQIWc5SX4AGjOsOlja6gF-n44OwGJRxixklUSQ6Gs/embed?start=false&loop=false&delayms=30000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<p>(Sí, sí, ya sé que el blog es un poco más de cocina y que es en español pero hago una excepción para presentar mi proyecto de maestría :D)</p>
+
+<p><strong>Linking historical datasets</strong> and making them available for the Web has increasingly become a subject of research in the field of <strong>digital humanities</strong>. In the Netherlands, history is intimately related to the <strong>maritime activity</strong> because it has been essential in the development of economic, social and cultural aspects of Dutch society. As such an important sector, it has been well documented by shipping companies, governments, newspapers and other institutions.</p>
+
+<p>In this master project we assume that, given the importance of maritime activity in every day life in the XIX and XX centuries, announcements on the departures and arrivals of ships or mentions of accidents or other events, can be found in newspapers.</p>
+
+<p>We have taken a two-stage approach: first, an heuristic-based method for <strong>record linkage</strong> and then <strong>machine-learning algorithms</strong> for article classification to be used for filtering in combination with domain features. Evaluation of the linking method has shown that certain domain features were indicative of mentions of ships in newspapers. Moreover, the classifier methods scored near perfect precision in predicting ship related articles.</p>
+
+<p>Enriching historical ship records with links to newspaper archives is significant for the digital history community since it connects two datasets that would have otherwise required extensive annotating work and man hours to align. Our work is part of the <a href=“http://dutchshipsandsailors.nl/”>Dutch Ships and Sailors Linked Data Cloud</a> project.</p>
+
+<iframe src="https://docs.google.com/presentation/d/1HSzQIWc5SX4AGjOsOlja6gF-n44OwGJRxixklUSQ6Gs/embed?start=false&loop=false&delayms=30000" frameborder="0" width="680" height="411" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[¡De Vuelta!]]></title>
-    <link href="http://blog.andreabravo.me/2014/02/de-vuelta/"/>
+    <link href="http://blog.andreabravo.me//github/2014/02/de-vuelta/"/>
     <updated>2014-02-15T00:00:00+01:00</updated>
-    <id>http://blog.andreabravo.me/2014/02/de-vuelta</id>
+    <id>http://blog.andreabravo.me//github/2014/02/de-vuelta</id>
     <content type="html"><![CDATA[<p>Una vez más he mudado mi blog. Esta vez, he decidido alojar mi sitio en Github Pages y utilizo Octopress como framework para el blog.
 Fueron muchas las búsquedas de instrucciones, resolución de errores y ensayo y error pero al fin lo logré :)
 Fui un poco desordenada y no documenté lo que iba haciendo, así que para explicarlo mejor necesitaré otro post y así tal vez le ahorre un montón de tiempo a alguien más.
@@ -44,9 +53,9 @@ Además del cambio de tecnología, decidí cambiarle el nombre al blog. Si bien 
   
   <entry>
     <title type="html"><![CDATA[7 Ideas Para Aprovechar Mejor El Espacio]]></title>
-    <link href="http://blog.andreabravo.me/2013/09/7-ideas-para-aprovechar-mejor-el-espacio/"/>
+    <link href="http://blog.andreabravo.me//github/2013/09/7-ideas-para-aprovechar-mejor-el-espacio/"/>
     <updated>2013-09-13T00:00:00+02:00</updated>
-    <id>http://blog.andreabravo.me/2013/09/7-ideas-para-aprovechar-mejor-el-espacio</id>
+    <id>http://blog.andreabravo.me//github/2013/09/7-ideas-para-aprovechar-mejor-el-espacio</id>
     <content type="html"><![CDATA[<p>Hace poco más de un mes me mudé a (otra) habitación de estudiantes. Ahora tengo muchas más cosas que cuando me mudé inicialmente a Holanda. Es natural: donde vivía estaba amoblado y ahora tengo mis propias cosas. En los días que pasé intentando buscarle un lugar a cada cosa (soy maniática con esto), se me ocurrieron varios <strong>trucos</strong>, algunos que había visto en Internet y otros que simplemente aparecieron como el bombillito sobre la cabeza. Tal vez haya mejores formas de hacerlo pero, entre otras cosas, aquí no puedo hacer modificaciones mayores. Además, invertí muy poco dinero en esto : )</p>
 
 <p>Sin más, aquí están las <strong>7 ideas para aprovechar mejor el espacio</strong>:</p>
@@ -106,9 +115,9 @@ Además del cambio de tecnología, decidí cambiarle el nombre al blog. Si bien 
   
   <entry>
     <title type="html"><![CDATA[Aaand, We&#8217;re Back!]]></title>
-    <link href="http://blog.andreabravo.me/2013/02/aaand-were-back/"/>
+    <link href="http://blog.andreabravo.me//github/2013/02/aaand-were-back/"/>
     <updated>2013-02-02T00:00:00+01:00</updated>
-    <id>http://blog.andreabravo.me/2013/02/aaand-were-back</id>
+    <id>http://blog.andreabravo.me//github/2013/02/aaand-were-back</id>
     <content type="html"><![CDATA[<p><a href="http://www.etsy.com/listing/103511809/keep-calm-and-blog-on-large-13x19"><img src="http://blog.andreabravo.me/wp-content/uploads/2013/02/blogon-300x300.jpg" alt="Keep calm and blog on " width="300" height="300" class="aligncenter size-medium wp-image-1379" /></a></p>
 
 <p>Luego de algunos problemas técnicos y cambio de hosting, mi blog está de vuelta. Debo confesar que a pesar de que no escribo tanto, me tenía ansiosa no tener mi espacio disponible.</p>
@@ -119,9 +128,9 @@ Además del cambio de tecnología, decidí cambiarle el nombre al blog. Si bien 
   
   <entry>
     <title type="html"><![CDATA[Reeddit, Cliente Minimalista Para Reddit]]></title>
-    <link href="http://blog.andreabravo.me/2012/11/reeddit-cliente-minimalista-para-reddit/"/>
+    <link href="http://blog.andreabravo.me//github/2012/11/reeddit-cliente-minimalista-para-reddit/"/>
     <updated>2012-11-23T00:00:00+01:00</updated>
-    <id>http://blog.andreabravo.me/2012/11/reeddit-cliente-minimalista-para-reddit</id>
+    <id>http://blog.andreabravo.me//github/2012/11/reeddit-cliente-minimalista-para-reddit</id>
     <content type="html"><![CDATA[<p><a href="http://blog.andreabravo.me/wp-content/uploads/2012/11/Reeddit.png"><img src="http://blog.andreabravo.me/wp-content/uploads/2012/11/Reeddit.png" alt="Reeddit, lector minimalista de Reddit" width="267" height="72" class="aligncenter size-full wp-image-1368" /></a></p>
 
 <p><a href="http://es.wikipedia.org/wiki/Reddit" title="reddit en Wikipedia" target="_blank">reddit</a> es un sitio donde los usuarios colaboran con enlaces a contenidos y donde éstos reciben comentarios y votos. Su ranking varía según su calidad, determinada por los usuarios a través de esos votos. Se ha convertido en una especie de <strong>página de inicio de Internet</strong>. Si entras al sitio te darás cuenta de que la interfaz es tan simple que tiende a ser un poco fea (sobre todo por los colores, muy 1998), por lo que cada vez se ven más clientes con distintas características.</p>
